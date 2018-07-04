@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "B78BCAE2-05E3-4257-A47C-5B8A66C74F4D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "56034974-A9EA-4E83-BEEA-077434F624F5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "92E4C90A-8CDB-4E7A-BA10-25AC7A272DD4",
+    "height": 44,
+    "width": 300,
+    "x": 15,
+    "y": 145
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3823D027-75A9-42BE-887B-3123FC54FFFD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CA211899-0EFB-4CCD-A5A0-7F3EB1FF151A"
+    },
+    {
+      "class": "text",
+      "id": "3A3FABBD-650D-4000-B7CC-2EFC68369DF0"
+    }
+  ],
+  "name": "latest-payment",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A223AD0E-2404-404A-A37C-FFFE1AF43272",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
