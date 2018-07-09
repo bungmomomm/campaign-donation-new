@@ -1,0 +1,75 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "213B0CA6-92E4-4EA7-95D7-1D80497D4404",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7CE760C0-C24A-4E9B-80E6-B20D003C6D20",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1E177830-D530-4EA5-B593-26487AFA2667",
+    "height": 40,
+    "width": 300,
+    "x": 15,
+    "y": 354
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "btn / primary / rounded / pink",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DEDC5CD8-1D68-4135-AF00-593278523273",
+      "overrideName": "8B6BADF5-D622-4CE6-B216-E6774C466E76_stringValue",
+      "value": "LANJUT PEMBAYARAN"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D259CA4E-490D-4389-9234-09DB7559D754",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 50,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2,
+          "blue": 0.4196078431372549,
+          "green": 0.2,
+          "red": 0.8549019607843137
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "symbolID": "C616AA54-5C1A-4B93-8972-85C03C87C66E",
+  "verticalSpacing": 0
+}

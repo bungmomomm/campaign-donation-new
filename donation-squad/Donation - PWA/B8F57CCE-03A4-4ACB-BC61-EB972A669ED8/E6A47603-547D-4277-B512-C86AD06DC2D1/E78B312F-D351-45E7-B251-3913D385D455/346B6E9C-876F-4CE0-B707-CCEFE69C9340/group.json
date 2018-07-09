@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "346B6E9C-876F-4CE0-B707-CCEFE69C9340",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "04C64EA9-F398-41FB-AF70-7DA45D738C77",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "7D3185D6-F618-4A1A-894F-2C7242B34475",
+    "height": 14.21052631578947,
+    "width": 15,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "61E31F81-0B45-4E33-8BC5-EB70E84F16D1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2ABE806B-7BB8-416C-AD5B-6D25966CAAB1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8876BE19-37E2-4B29-97CA-7BAE6784257C"
+    }
+  ],
+  "name": "icon_category-medical",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "26FA5481-FAE5-401E-A07E-D7CABCB9FF30",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.4,
+      "type": 0
+    },
+    "do_objectID": "B97C501C-5CA1-4CC0-8D57-DBA62D6192E6",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

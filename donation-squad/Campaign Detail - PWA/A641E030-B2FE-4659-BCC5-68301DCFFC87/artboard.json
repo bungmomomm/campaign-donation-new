@@ -11,6 +11,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -40,7 +49,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
@@ -207,12 +216,8 @@
       "id": "CED18BE9-F438-46C0-8885-BDBA80863835"
     },
     {
-      "class": "text",
-      "id": "A209B417-6C69-461D-8442-8F507CCD5D15"
-    },
-    {
-      "class": "text",
-      "id": "8FF6B603-3261-4CA9-8CCF-2445FBCD7B64"
+      "class": "symbolInstance",
+      "id": "F7B3DFDE-D689-4478-9370-BE78DA5D2AF0"
     },
     {
       "class": "shapeGroup",
@@ -276,14 +281,6 @@
     },
     {
       "class": "text",
-      "id": "3CBEE944-18CC-45D9-B416-370433E66A84"
-    },
-    {
-      "class": "text",
-      "id": "8178D6CB-48DD-4DE5-A9D0-90A8C30CB162"
-    },
-    {
-      "class": "text",
       "id": "E63C03A5-FD77-4650-BD40-D21760FDA835"
     },
     {
@@ -303,36 +300,12 @@
       "id": "E9ECBAB9-645A-4DA5-A61F-14D2730BCB0E"
     },
     {
-      "class": "shapeGroup",
-      "id": "FCDA36D0-8772-4CD5-A839-22FB79758B48"
+      "class": "group",
+      "id": "7D497843-7A81-4AD2-A1CB-E07D5C4AF362"
     },
     {
-      "class": "text",
-      "id": "F1FE8BC4-C583-41D5-B8B1-A3FD85B8712A"
-    },
-    {
-      "class": "text",
-      "id": "AC95B238-93BA-43B7-A451-105101FBDC65"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "5D4DF030-9C1F-46AB-B1A8-1D77B5B2C12D"
-    },
-    {
-      "class": "text",
-      "id": "B76A561F-6790-42D0-B267-6D29350FA5D9"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "D390E172-35A5-4BD3-86D6-EC3225E94387"
-    },
-    {
-      "class": "text",
-      "id": "AD6633CA-5D96-456B-81C4-C9403508E899"
-    },
-    {
-      "class": "text",
-      "id": "444FDF32-82AC-4B15-BE00-DDEA4F712BAD"
+      "class": "group",
+      "id": "554B123E-EE4A-484F-BB99-877016E4E1CB"
     },
     {
       "class": "text",
@@ -343,8 +316,8 @@
       "id": "19E2B4B8-38FE-48D4-A893-E1DB1A4BB474"
     },
     {
-      "class": "shapeGroup",
-      "id": "7E477E23-8F06-4022-B947-E8628D81F38E"
+      "class": "group",
+      "id": "3A4C710B-36AE-492A-8803-4C89BFADBFFB"
     },
     {
       "class": "shapeGroup",
@@ -385,6 +358,10 @@
     {
       "class": "symbolInstance",
       "id": "0CD318BE-A701-46A1-8506-46A830861A03"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BDCBD84D-BEEF-4810-B413-F9072442276F"
     }
   ],
   "name": "00_Campaign-New__Full-Share-Comments-Full",
@@ -411,7 +388,6 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      385
     ]
   }
 }

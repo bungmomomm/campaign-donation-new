@@ -40,7 +40,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -93,9 +93,33 @@
     {
       "class": "symbolInstance",
       "id": "CF6B3AB2-F653-4D9A-B35E-8C3F441A7A4B"
+    },
+    {
+      "class": "bitmap",
+      "id": "4402A205-B4B4-468F-AC05-6C7F01C72347"
+    },
+    {
+      "class": "group",
+      "id": "3B5DE6E0-2FE3-44A2-81BC-19D2FE0DD475"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F19BCCD1-C310-4B1C-B41F-BF50A489C8F9"
+    },
+    {
+      "class": "text",
+      "id": "F568D066-5086-471C-A82C-32734FDA0429"
+    },
+    {
+      "class": "text",
+      "id": "21D5D8AD-8B3C-41D4-98C3-E272ED67D03C"
+    },
+    {
+      "class": "text",
+      "id": "37A1C99D-1839-4C21-93FE-537D84B5F85B"
     }
   ],
-  "name": "00_Campaign-New__Full-Share-Comments-Full Copy 3",
+  "name": "00_Campaign-New__Full-Comments-Share-Donated",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

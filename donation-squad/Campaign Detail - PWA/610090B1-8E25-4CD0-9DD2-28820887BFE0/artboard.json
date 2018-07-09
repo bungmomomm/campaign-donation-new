@@ -40,7 +40,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
@@ -211,14 +211,6 @@
       "id": "B6FC87F3-5C4C-4D68-AF47-776EDD6DE8F7"
     },
     {
-      "class": "text",
-      "id": "C983EF8B-D094-448A-BE8D-FD2A56D9A2F8"
-    },
-    {
-      "class": "text",
-      "id": "28F83130-6225-438E-83B2-0BA3EB7276EA"
-    },
-    {
       "class": "shapeGroup",
       "id": "12DD8E0F-F06D-4257-A5DC-1BD47B88D003"
     },
@@ -277,14 +269,6 @@
     {
       "class": "text",
       "id": "C303C417-BE1F-49E5-9BDC-994DBEA1A3DF"
-    },
-    {
-      "class": "text",
-      "id": "D5298CFE-BEC6-45AC-A023-BABE95EC0330"
-    },
-    {
-      "class": "text",
-      "id": "F715A7AC-78FC-4473-9C0E-2E2792C7C22D"
     },
     {
       "class": "text",
@@ -389,9 +373,17 @@
     {
       "class": "text",
       "id": "DDAC10FC-4F2A-46A5-A81F-F3E2A5B6F441"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E46011E1-362B-464F-9C7B-51B22E935089"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8C23FEE6-74AC-4C2C-B5CF-6E0BB5F4C51C"
     }
   ],
-  "name": "00_Campaign-New__Full-Share-Comments-Full Copy",
+  "name": "00_Campaign-New__Full-Share-Comments-Full-Loved",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
