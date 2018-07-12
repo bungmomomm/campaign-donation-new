@@ -1,0 +1,76 @@
+{
+  "_class": "group",
+  "do_objectID": "425F455B-ABC9-46F2-BF22-ACBBD52EBA36",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2D47E8C6-6EC3-4DA3-BE27-1C0C7802773F",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D702A320-6A43-4562-9DA6-606411C74D4B",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6849B95A-BE78-4358-AA5F-DB66D92464DA"
+    },
+    {
+      "class": "text",
+      "id": "16ED93EE-BF80-45A3-B5A1-759EEFEDCEDF"
+    }
+  ],
+  "name": "Facebook",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "8E34996A-CF00-44E1-9F5B-744797323165",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 3.42144,
+      "type": 0
+    },
+    "do_objectID": "96E964A9-ED67-4090-976D-9A04A4CD9848",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

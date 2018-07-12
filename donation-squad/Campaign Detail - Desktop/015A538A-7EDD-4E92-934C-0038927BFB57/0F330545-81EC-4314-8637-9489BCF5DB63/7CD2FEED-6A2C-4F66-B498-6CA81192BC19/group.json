@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "7CD2FEED-6A2C-4F66-B498-6CA81192BC19",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "97814BEC-3680-462C-9F12-20E369AB3CB0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5E6AABFE-9FD4-41F2-B3F8-9170C9BF74C8",
+    "height": 80,
+    "width": 320,
+    "x": 20,
+    "y": 80
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6FA03023-084D-4343-A3CE-1E3FA6E705D3"
+    },
+    {
+      "class": "text",
+      "id": "65098A55-61D1-429A-8C18-DE8EC6A10709"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F9EFADD4-0A93-43B6-8732-9E5CE27685F4"
+    },
+    {
+      "class": "text",
+      "id": "27AAF8E7-6055-4C87-B6FC-B7E5908E0A57"
+    }
+  ],
+  "name": "donatur-01",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B8546C2C-5F20-4D49-9903-F9CBAD21346B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

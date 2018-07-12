@@ -29,9 +29,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 3335,
+    "height": 3216,
     "width": 1920,
-    "x": 7570,
+    "x": 11610,
     "y": -509
   },
   "hasBackgroundColor": true,
@@ -49,63 +49,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "shapeGroup",
-      "id": "40414D5F-AC07-438C-A75C-777E0E9FCE5B"
-    },
     {
       "class": "symbolInstance",
       "id": "84924944-998A-4DB7-8373-D341B2B3BB69"
-    },
-    {
-      "class": "group",
-      "id": "D509B70E-B8C4-423E-B0C1-7E67C15BF994"
-    },
-    {
-      "class": "text",
-      "id": "90C10E03-1C2D-450F-87D4-0681ADD06B59"
-    },
-    {
-      "class": "group",
-      "id": "D9662E59-A3AE-48E9-A6CD-D509FDDB2776"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "702B146D-2D6C-434C-BC46-0C5DED6967B2"
-    },
-    {
-      "class": "text",
-      "id": "F3B99104-0BF1-4D7F-8FB6-62C1D3DC2A8C"
-    },
-    {
-      "class": "group",
-      "id": "C573BAA4-73DD-41FC-B2A4-D662AC494E98"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D0589994-A940-4657-9A4A-853E1F3CD4AF"
-    },
-    {
-      "class": "text",
-      "id": "E239A65E-EEFF-4BE8-BF60-2AF26872DF46"
-    },
-    {
-      "class": "group",
-      "id": "60678509-4B12-41AC-BB8E-274755A7F6C3"
-    },
-    {
-      "class": "text",
-      "id": "A2286D9E-F175-4F84-94D1-022670859322"
-    },
-    {
-      "class": "group",
-      "id": "6BCAC77D-FE9B-44F4-8266-5A90CD2B4202"
-    },
-    {
-      "class": "group",
-      "id": "DC9D4067-37D0-4A86-8C23-6BC13C888C0E"
     },
     {
       "class": "shapeGroup",
@@ -126,9 +74,25 @@
     {
       "class": "group",
       "id": "08760F3E-0216-451E-9CF8-CB96AEE3A08D"
+    },
+    {
+      "class": "group",
+      "id": "B04AA2DA-F4D4-4B65-96A1-E0362B89DEC3"
+    },
+    {
+      "class": "group",
+      "id": "DC806EF9-56E7-4FA2-A477-8774791AC062"
+    },
+    {
+      "class": "group",
+      "id": "9CBBA8D6-DABC-4D7E-8A89-B2249E989E8B"
+    },
+    {
+      "class": "group",
+      "id": "E9A61A5A-9B5B-4B2D-A5C1-580E68D69C52"
     }
   ],
-  "name": "Campaign Detail - Mockup 03",
+  "name": "Campaign Detail - Mockup 04",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

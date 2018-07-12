@@ -1,0 +1,82 @@
+{
+  "_class": "group",
+  "do_objectID": "50862165-3B5E-4BA7-A197-07413949A13A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DB685429-9BD3-4DBD-90E7-F7D15BDA3A30",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E47CABC2-554D-46E7-8E71-9D019FE9C1EC",
+    "height": 49,
+    "width": 360,
+    "x": 0,
+    "y": 55
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6EEB9B82-67BD-45FE-B4C8-9F579C92880F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F7AC81BC-29AA-48AD-A82C-72046BCAC681"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "91A7DB3E-DC27-4487-9747-BB072A0A74A1"
+    },
+    {
+      "class": "text",
+      "id": "8E6B4F0E-084C-45FC-900E-06B6A39F8420"
+    }
+  ],
+  "name": "Campaigner",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3B113B56-9E90-489F-9BED-74BE10A17AC6",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.05,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  }
+}

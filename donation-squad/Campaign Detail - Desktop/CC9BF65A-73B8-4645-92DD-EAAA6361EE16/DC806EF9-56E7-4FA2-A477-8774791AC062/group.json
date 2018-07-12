@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "DC806EF9-56E7-4FA2-A477-8774791AC062",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1408,
+    "width": 361,
+    "x": 1110,
+    "y": 623
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "F2C87C7B-6F17-433D-9E58-EA5BB477C2A2"
+    },
+    {
+      "class": "group",
+      "id": "78BB265A-5296-47B0-B2AD-08D1CFA5A272"
+    },
+    {
+      "class": "group",
+      "id": "A95CD46C-FEC1-401F-86B2-7FD20FD59AB4"
+    }
+  ],
+  "name": "Donation",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
