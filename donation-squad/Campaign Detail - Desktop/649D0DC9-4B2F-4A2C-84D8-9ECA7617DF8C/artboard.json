@@ -31,8 +31,8 @@
     "constrainProportions": false,
     "height": 1080,
     "width": 1920,
-    "x": 15650,
-    "y": -509
+    "x": 5200,
+    "y": -6711
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -170,6 +170,22 @@
     {
       "class": "group",
       "id": "BB0926D8-5A69-4081-8FF2-BD0E2769DAE7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "50AB8910-49E8-411F-AD4F-335E22CE6FA3"
+    },
+    {
+      "class": "text",
+      "id": "088246FE-9249-41B1-9567-F5E073269741"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3759A6ED-B62E-4285-9512-BB5B64EBC1F8"
+    },
+    {
+      "class": "text",
+      "id": "C78CF0AD-5B34-49EF-9B11-F855B121AAF7"
     }
   ],
   "name": "Campaign Detail - Mockup 04 Donation_Modal",

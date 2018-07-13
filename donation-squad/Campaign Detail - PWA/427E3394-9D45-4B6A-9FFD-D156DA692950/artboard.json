@@ -22,11 +22,11 @@
     "constrainProportions": false,
     "height": 640,
     "width": 360,
-    "x": 2297,
-    "y": 1759
+    "x": -3,
+    "y": -2257
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -40,7 +40,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
@@ -147,7 +147,7 @@
       "id": "BAE09316-4F56-46A6-9816-25E72C97F33F"
     }
   ],
-  "name": "06_Campaign-New__Updates-Modal",
+  "name": "00_Campaign-New__Updates-Modal",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

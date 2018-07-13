@@ -20,10 +20,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 3580,
+    "height": 3660,
     "width": 360,
-    "x": 10117,
-    "y": 1759
+    "x": 3677,
+    "y": -2257
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -40,7 +40,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -65,18 +65,6 @@
     {
       "class": "group",
       "id": "BF903AB1-CA85-4018-90E1-2CB00F6AC72C"
-    },
-    {
-      "class": "group",
-      "id": "E94D7ACD-CF3D-4794-9B49-2B3F02079516"
-    },
-    {
-      "class": "text",
-      "id": "FB4C9E5D-11E1-47E9-9D83-79D44DFE9A6F"
-    },
-    {
-      "class": "text",
-      "id": "061DF12F-ACF2-4562-A3C8-F1BF50C47C8B"
     },
     {
       "class": "shapeGroup",
@@ -137,18 +125,6 @@
     {
       "class": "group",
       "id": "A020B59E-A66F-436B-9BC9-1D018F518485"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "811AC925-A24E-4191-94FA-0FBB1A7B0C6C"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "27679935-BCF7-46BC-9C48-408E7FACA354"
-    },
-    {
-      "class": "text",
-      "id": "266331DA-2A9E-4E8B-A27F-1C8EE20A3BEE"
     },
     {
       "class": "symbolInstance",
@@ -320,10 +296,6 @@
     },
     {
       "class": "shapeGroup",
-      "id": "C92D46C9-9AF4-4FFE-B01D-5814A80F82B1"
-    },
-    {
-      "class": "shapeGroup",
       "id": "1E4E5BA8-16E0-4C28-820F-A1B038F8D176"
     },
     {
@@ -415,8 +387,20 @@
       "id": "282EB38C-5C27-499A-A269-4A8947D4E5A1"
     },
     {
+      "class": "group",
+      "id": "DF40A0AB-3EC7-4720-A981-CF11FAAEE7F1"
+    },
+    {
       "class": "symbolInstance",
       "id": "6B67496F-DAC5-4351-8013-7847AD8DCE0E"
+    },
+    {
+      "class": "group",
+      "id": "22E8E35E-959A-4E94-B80C-13D824212AA2"
+    },
+    {
+      "class": "group",
+      "id": "E7927174-921B-4AA3-BF36-33739368D15A"
     }
   ],
   "name": "00_Campaign-New__Full-Fundraiser",
@@ -443,7 +427,8 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      385
+      385,
+      1345
     ]
   }
 }

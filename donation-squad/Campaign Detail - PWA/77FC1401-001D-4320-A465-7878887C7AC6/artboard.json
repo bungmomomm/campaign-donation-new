@@ -22,11 +22,11 @@
     "constrainProportions": false,
     "height": 640,
     "width": 360,
-    "x": 1377,
-    "y": 1759
+    "x": 917,
+    "y": -2257
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -40,7 +40,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -151,10 +151,6 @@
       "id": "A3EF956D-CB36-4950-A380-F8C2BED549B7"
     },
     {
-      "class": "text",
-      "id": "D2D5B1C5-886F-4DCC-A161-0393CFE3B47B"
-    },
-    {
       "class": "shapeGroup",
       "id": "4ECF5186-2C8A-48AB-94AA-42F20530F617"
     },
@@ -229,9 +225,17 @@
     {
       "class": "text",
       "id": "938DC4BE-CD06-439C-A859-35EA6B205206"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "102EA883-F072-45F6-8E68-E39BE768C7A3"
+    },
+    {
+      "class": "text",
+      "id": "BA8B668E-6B2A-4D47-911A-3C2E387603B9"
     }
   ],
-  "name": "04_Campaign-New__Donatur-Modal",
+  "name": "00_Campaign-New__Donatur-Modal",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
