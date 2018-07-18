@@ -17,13 +17,13 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans-Bold",
-              "size": 12
+              "size": 14
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "maximumLineHeight": 16,
-            "minimumLineHeight": 16
+            "maximumLineHeight": 21,
+            "minimumLineHeight": 21
           },
           "textStyleVerticalAlignmentKey": 0
         },
@@ -44,21 +44,21 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans",
-              "size": 12
+              "size": 14
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "maximumLineHeight": 16,
-            "minimumLineHeight": 16
+            "maximumLineHeight": 21,
+            "minimumLineHeight": 21
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 68,
+        "length": 77,
         "location": 9
       }
     ],
-    "string": "PENTING, transfer sampai 3 angka terakhir agar donasi otomatis terverifikasi."
+    "string": "PENTING! Mohon transfer tepat sampai 3 angka terakhir agar donasi Anda dapat diproses."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "57150C05-9F54-4471-A8C5-51D1EC34636E",
@@ -77,19 +77,19 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "840BD2C0-CC56-41C1-A77C-1CAC6F28A2BB",
-    "height": 32,
+    "height": 42,
     "width": 325.5813953488372,
     "x": 24.41860465116279,
     "y": 0
   },
-  "glyphBounds": "{{0, 3}, {310, 27}}",
+  "glyphBounds": "{{0, 5}, {315, 36}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "PENTING, transfer sa",
+  "name": "PENTING! Mohon trans",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -116,13 +116,13 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "OpenSans-Bold",
-            "size": 12
+            "size": 14
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "maximumLineHeight": 16,
-          "minimumLineHeight": 16
+          "maximumLineHeight": 21,
+          "minimumLineHeight": 21
         },
         "textStyleVerticalAlignmentKey": 0
       },

@@ -32,7 +32,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "D004DE7F-1211-46CE-8807-64A965C8A8E8",
-    "height": 1260,
+    "height": 1988,
     "width": 360,
     "x": -260,
     "y": -481
@@ -53,23 +53,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "6FDCDBE1-F3AA-4E15-81A8-7B275AA35673"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "BCC2FBF6-FCEA-4762-808B-01E222C3293F"
-    },
-    {
-      "class": "group",
-      "id": "AF4670E1-48C8-46ED-A50E-3EC3B7EC7CAF"
-    },
-    {
-      "class": "text",
-      "id": "F6EEB162-99DC-418C-B95B-BD696EDA6BA7"
     },
     {
       "class": "shapeGroup",
@@ -88,6 +76,10 @@
       "id": "F5B8FCFE-0D83-4567-882A-A61A26B20BCC"
     },
     {
+      "class": "symbolInstance",
+      "id": "D4515AEB-FB49-430E-9951-E72C5E5E7121"
+    },
+    {
       "class": "shapeGroup",
       "id": "41FC2694-12EF-459B-B8F9-F6776D816AAF"
     },
@@ -98,6 +90,26 @@
     {
       "class": "shapeGroup",
       "id": "65C40353-B264-4C88-9EEC-A2652027CCA5"
+    },
+    {
+      "class": "text",
+      "id": "2441BA63-16DD-4D44-A2B0-BCC240F226C0"
+    },
+    {
+      "class": "text",
+      "id": "3624498E-D450-4762-913E-0CE3C6C01713"
+    },
+    {
+      "class": "group",
+      "id": "5507629B-6F36-4323-BC05-FCFFAE55A60E"
+    },
+    {
+      "class": "group",
+      "id": "72840719-9856-46BC-B7D5-6792F0D0B85C"
+    },
+    {
+      "class": "group",
+      "id": "5259A87E-CDC7-4934-969F-2B9417738FCD"
     },
     {
       "class": "text",
@@ -116,24 +128,12 @@
       "id": "8DD222B4-7BF9-480B-AB24-5D87FBE18F39"
     },
     {
-      "class": "shapeGroup",
-      "id": "B6B33956-2822-4BA4-9B9B-304ECF8A5063"
-    },
-    {
-      "class": "text",
-      "id": "ED4233A0-7BAE-47C5-A806-F57226649693"
-    },
-    {
-      "class": "text",
-      "id": "4A670ADC-85B6-42FD-B344-D7EFC85D20ED"
-    },
-    {
-      "class": "text",
-      "id": "90AD1541-B294-4EA2-89A9-39514C0B7E30"
-    },
-    {
       "class": "group",
       "id": "1670DEBE-1B5A-456F-91A6-59288ECAF7CE"
+    },
+    {
+      "class": "bitmap",
+      "id": "33D51E8A-62E1-4047-B1C4-C1487A962E4E"
     },
     {
       "class": "symbolInstance",
@@ -170,7 +170,6 @@
     "base": 0,
     "do_objectID": "17BA47E7-8BE7-4A48-B975-901C7A3EB5FB",
     "guides": [
-      639
     ]
   }
 }

@@ -2,7 +2,7 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "do_objectID": "9A53A2AC-6A66-4AA8-BE4E-F0E0A4313807",
-  "edited": false,
+  "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
     "do_objectID": "FAFEB4F3-97EF-42AF-BB3F-88AF18963FB4",
@@ -18,7 +18,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "A9DE30FF-694D-41DE-8EF1-30833ABC2237",
-    "height": 526,
+    "height": 470,
     "width": 330,
     "x": 0,
     "y": 0
@@ -57,22 +57,22 @@
     {
       "_class": "curvePoint",
       "cornerRadius": 8,
-      "curveFrom": "{1, 1}",
+      "curveFrom": "{1, 0.99999999999999989}",
       "curveMode": 1,
-      "curveTo": "{1, 1}",
+      "curveTo": "{1, 0.99999999999999989}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{1, 1}"
+      "point": "{1, 0.99999999999999989}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 8,
-      "curveFrom": "{0, 1}",
+      "curveFrom": "{0, 0.99999999999999989}",
       "curveMode": 1,
-      "curveTo": "{0, 1}",
+      "curveTo": "{0, 0.99999999999999989}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{0, 1}"
+      "point": "{0, 0.99999999999999989}"
     }
   ],
   "resizingConstraint": 63,

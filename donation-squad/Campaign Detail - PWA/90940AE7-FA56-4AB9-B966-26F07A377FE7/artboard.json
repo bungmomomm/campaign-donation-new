@@ -20,13 +20,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 640,
+    "height": 770,
     "width": 360,
     "x": 4137,
     "y": -2257
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -401,10 +401,6 @@
     {
       "class": "group",
       "id": "9A3FE7F7-89BA-4900-82B0-8A750CD81DEE"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "FFDB2F66-3B6A-4375-BF37-6420B5BB5AC8"
     },
     {
       "class": "shapeGroup",

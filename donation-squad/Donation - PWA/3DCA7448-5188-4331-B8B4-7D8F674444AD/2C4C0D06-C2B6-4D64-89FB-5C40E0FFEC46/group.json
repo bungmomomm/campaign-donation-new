@@ -24,10 +24,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "44BBEF7E-E469-478A-BDAA-1BCB06F73379",
-    "height": 526,
+    "height": 468,
     "width": 330,
     "x": 15,
-    "y": 94
+    "y": 152
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -74,6 +74,10 @@
     },
     {
       "class": "symbolInstance",
+      "id": "74DF3094-0DDE-4AB8-97C8-A0A47BD6A14A"
+    },
+    {
+      "class": "symbolInstance",
       "id": "F71DE00D-AD18-4122-BC6B-141D03266F29"
     },
     {
@@ -87,10 +91,6 @@
     {
       "class": "symbolInstance",
       "id": "FFC5C850-8351-404D-A3D7-54B64B7A2260"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "0885A2FE-B94F-408D-BE7D-9A2D749D62C4"
     }
   ],
   "name": "fastpay",

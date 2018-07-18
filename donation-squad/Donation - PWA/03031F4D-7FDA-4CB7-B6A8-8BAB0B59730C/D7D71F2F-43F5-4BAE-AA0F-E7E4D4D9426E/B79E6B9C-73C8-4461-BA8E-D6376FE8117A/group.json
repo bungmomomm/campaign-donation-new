@@ -18,14 +18,14 @@
     "height": 44,
     "width": 301,
     "x": 15,
-    "y": 128
+    "y": 136
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -50,6 +50,14 @@
     {
       "class": "bitmap",
       "id": "41AA6CB1-A5D6-4A78-9260-339049AA74FF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "00F71AA1-6670-4E5A-B6F8-21794D0F3CC2"
+    },
+    {
+      "class": "bitmap",
+      "id": "DA04E95E-BB19-4FF7-8FD0-7C86768139B0"
     }
   ],
   "name": "latest-payment",

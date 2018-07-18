@@ -35,7 +35,7 @@
     "y": -6711
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -170,6 +170,10 @@
     {
       "class": "group",
       "id": "0333BA05-A615-4277-9E17-64939FA23ADB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "29FF4822-4B77-4182-B8F5-0A6B37FFB0B1"
     }
   ],
   "name": "Campaign Detail - Mockup 04 Donation_Modal_LoggedIn",

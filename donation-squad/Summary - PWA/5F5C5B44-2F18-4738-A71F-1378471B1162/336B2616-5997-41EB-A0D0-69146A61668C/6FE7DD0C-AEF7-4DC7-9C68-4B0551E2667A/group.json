@@ -1,0 +1,81 @@
+{
+  "_class": "group",
+  "do_objectID": "6FE7DD0C-AEF7-4DC7-9C68-4B0551E2667A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1BF95C21-BB83-4EE2-AE78-A202AF26B969",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "61CD777E-9DC9-410D-94D2-875A6E7A1EA9",
+    "height": 364,
+    "width": 320,
+    "x": 20,
+    "y": 712
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "690826A4-7AC4-4FCA-B5CB-A3F90D78D166"
+    },
+    {
+      "class": "group",
+      "id": "A13F6AE5-0479-4F62-920B-4E15B6E889CE"
+    },
+    {
+      "class": "group",
+      "id": "49005D57-05AC-4810-95BA-85941177B4A6"
+    }
+  ],
+  "name": "card Campaign Normal",
+  "nameIsFixed": true,
+  "originalObjectID": "0CE991AE-49CD-43E7-933C-381F1D0E35F7",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "5E2EFFB9-661B-4409-BD33-71BED861FE61",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.52,
+      "type": 0
+    },
+    "do_objectID": "D81521B3-26FE-4A7F-8624-4772FACCFD7D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
