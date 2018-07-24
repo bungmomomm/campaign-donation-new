@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "do_objectID": "D582AFDF-0F0F-41EE-B1AD-EC545E8C4960",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B12ED58D-430F-477D-9FD4-BC863C7B9414",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3DC3C400-9F40-4238-8089-F4810DC4E828",
+    "height": 3,
+    "width": 1,
+    "x": 33.36076980348948,
+    "y": 0.1294464213558968
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "00DF3F26-2114-44D3-AD85-E65EAF629181"
+    }
+  ],
+  "name": "Notif",
+  "nameIsFixed": true,
+  "originalObjectID": "0053B466-9895-43E4-A3FF-6946868532B4",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "5122879F-CB3F-4617-858B-638AC43AA67B",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.722701056,
+      "type": 0
+    },
+    "do_objectID": "FA026784-E233-4703-BA83-68C31CBFC806",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "_class": "group",
+  "do_objectID": "336D1CC8-FC1D-4C7A-A6C3-03B75CD10E41",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "32C5B16D-64C7-4827-B5C1-54EAB90E2660",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "61D165BC-0CC5-4AE3-B836-DC2947BC33B2",
+    "height": 7,
+    "width": 36.19047619047618,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C3677701-B34F-4992-91D0-E666790C77E6"
+    }
+  ],
+  "name": "Photo",
+  "nameIsFixed": false,
+  "originalObjectID": "480203D8-EC47-4B0F-8B8A-C2BD81AEF3E4",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "C976077E-0554-4BFB-8C23-5353FC62F3FF",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.5466138925040642,
+      "type": 0
+    },
+    "do_objectID": "BA837333-C9EA-4395-89D5-638F57B7D920",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 1,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8031271024478683,
+          "green": 0.8031271024478683,
+          "red": 0.8103210034013606
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 0,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

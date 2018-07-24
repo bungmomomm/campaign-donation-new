@@ -1,0 +1,88 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "7F9333C3-1498-40D4-B0DF-6C43346EC67B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D812CFD6-5A33-473B-AC59-C1D2D8D01EF3",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "94BDA62F-4915-4303-B046-DC5681936CD4",
+    "height": 2.745386844632142,
+    "width": 9.777040900885133,
+    "x": 0,
+    "y": 0.2
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/d4f7930875e1238869841f4197315020415fb603.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "logo-ktbs copy 3",
+  "nameIsFixed": true,
+  "originalObjectID": "4C6FC0E6-3178-4121-B469-870D96B80ADF",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "AF45ACE0-A422-4ED6-BAC9-77939A133758",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 1.073101568,
+      "type": 0
+    },
+    "do_objectID": "0A351722-0F33-41C2-89B5-6E89C026CE46",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 13.72693,
+            "enabled": 1,
+            "modelID": "constraint_948bfd41-794c-402c-9296-21777c70b0cc",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 51.32946
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_dd0b47fc-6634-4454-948f-75d807033765",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1
+        }
+      }
+    }
+  }
+}
