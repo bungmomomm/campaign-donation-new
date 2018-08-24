@@ -27,9 +27,59 @@
         },
         "length": 16,
         "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.9372549019607843,
+            "green": 0.6862745098039218,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "OpenSans-Bold",
+              "size": 14
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0
+          }
+        },
+        "length": 1,
+        "location": 16
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2902374565601349,
+            "green": 0.2901752889156342,
+            "red": 0.290221631526947
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "OpenSans",
+              "size": 12
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0
+          }
+        },
+        "length": 26,
+        "location": 17
       }
     ],
-    "string": "Rp 5.000.000.000"
+    "string": "Rp 1.250.218.987 terkumpul dari Rp 2 miliar"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "D82F8E8B-3C10-42F4-9DF3-CDCD8B82FF58",
@@ -47,18 +97,18 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 147,
-    "x": 1,
-    "y": 58
+    "width": 320,
+    "x": 0,
+    "y": 59
   },
-  "glyphBounds": "{{1, 5}, {145, 19}}",
+  "glyphBounds": "{{1, 5}, {295, 19}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Rp 5.000.000.000",
+  "name": "Rp 1.250.218.987 ter",
   "nameIsFixed": false,
   "originalObjectID": "EE308A8C-C964-474E-8AC4-18BAA6E97669",
   "resizingConstraint": 45,
@@ -103,7 +153,7 @@
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 0,
+  "textBehaviour": 1,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

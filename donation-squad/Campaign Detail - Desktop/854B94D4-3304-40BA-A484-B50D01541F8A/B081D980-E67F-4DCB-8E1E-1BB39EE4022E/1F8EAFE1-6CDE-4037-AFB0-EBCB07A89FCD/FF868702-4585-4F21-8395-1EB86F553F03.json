@@ -25,11 +25,11 @@
             "alignment": 2
           }
         },
-        "length": 5,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "Story"
+    "string": "Cerita Lengkap"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "FF868702-4585-4F21-8395-1EB86F553F03",
@@ -46,24 +46,25 @@
   "flow": {
     "_class": "MSImmutableFlowConnection",
     "animationType": 0,
-    "destinationArtboardID": "9BFC6D8D-4703-45A2-806E-F9C30D436131"
+    "destinationArtboardID": "9BFC6D8D-4703-45A2-806E-F9C30D436131",
+    "do_objectID": "F8808611-A37D-4AD4-8D38-3DAC5EF58031"
   },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 70,
-    "x": 125,
+    "width": 320,
+    "x": 0,
     "y": 20
   },
-  "glyphBounds": "{{14, 5}, {43, 19}}",
+  "glyphBounds": "{{98, 5}, {124, 19}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Story",
+  "name": "Cerita Lengkap",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

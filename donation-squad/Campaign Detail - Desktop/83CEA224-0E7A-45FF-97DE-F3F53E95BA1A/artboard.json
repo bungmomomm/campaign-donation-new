@@ -31,11 +31,11 @@
     "constrainProportions": false,
     "height": 3216,
     "width": 1920,
-    "x": 9240,
+    "x": 7220,
     "y": -6711
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -81,34 +81,18 @@
     },
     {
       "class": "group",
-      "id": "FC38E0FF-FE94-4200-957D-50073A850119"
-    },
-    {
-      "class": "group",
       "id": "0ADC54CA-2A1F-4A83-A8B4-09377B5DF140"
     },
     {
       "class": "group",
+      "id": "87FEAC52-6448-4B75-B065-27AA1879B0EC"
+    },
+    {
+      "class": "group",
       "id": "F334CD26-F1C3-45EB-B4D8-B28CAFD28D2E"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "3EA8CC7F-1E65-4873-BB89-7065F24EDD5B"
-    },
-    {
-      "class": "text",
-      "id": "A692CEE2-0B63-4CB7-AB99-2ED0224EDEDA"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "26EAA9FF-248C-4CB0-B7F2-84C7F8A48920"
-    },
-    {
-      "class": "text",
-      "id": "1B504FAE-77C6-46E7-A2DB-FA588C278C4F"
     }
   ],
-  "name": "Campaign Detail - Mockup 04 DonationDropdown",
+  "name": "Campaign Detail - DonationDropdown",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

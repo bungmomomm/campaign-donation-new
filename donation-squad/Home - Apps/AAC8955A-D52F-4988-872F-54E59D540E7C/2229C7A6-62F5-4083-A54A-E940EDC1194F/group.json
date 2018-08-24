@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "2229C7A6-62F5-4083-A54A-E940EDC1194F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 52,
+    "x": 16,
+    "y": 346
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "EC7DD990-2309-4D36-92EE-6E2293DD8757"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "41FA4E99-B52C-4057-959E-B715806C22ED"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C37C931E-D245-409C-9B22-45DF11544765"
+    },
+    {
+      "class": "group",
+      "id": "60821726-BCEC-435A-9EBA-96D5263BEB45"
+    }
+  ],
+  "name": "Bus",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 13.00000071525574,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

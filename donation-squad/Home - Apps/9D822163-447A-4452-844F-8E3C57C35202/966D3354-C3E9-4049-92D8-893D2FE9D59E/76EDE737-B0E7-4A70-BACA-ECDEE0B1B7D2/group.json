@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "do_objectID": "76EDE737-B0E7-4A70-BACA-ECDEE0B1B7D2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8DF64883-5A39-4D07-8EAC-D47B950A6CAB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9E9FF6D2-9157-4CF9-B539-2904DEB4617E",
+    "height": 71,
+    "width": 156,
+    "x": 189,
+    "y": 143
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4397853A-04A5-41BC-A34C-127133813F03"
+    },
+    {
+      "class": "group",
+      "id": "05CFED3A-D2BD-41CA-AE80-1C467B15481D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CC5DA590-7CE1-4651-9CFE-330D36C79CBF"
+    },
+    {
+      "class": "group",
+      "id": "BB2533EA-ED0F-4397-BB3D-B1D0194DF41A"
+    },
+    {
+      "class": "text",
+      "id": "ABEDA2B3-C449-4265-86E6-029A9FEA17B5"
+    }
+  ],
+  "name": "Movies",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "AB1B4D90-6357-4D21-9625-7312F750A281",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 13.00000071525574,
+      "type": 0
+    },
+    "do_objectID": "5613A609-51F1-4DD0-BAB6-8EC084807070",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

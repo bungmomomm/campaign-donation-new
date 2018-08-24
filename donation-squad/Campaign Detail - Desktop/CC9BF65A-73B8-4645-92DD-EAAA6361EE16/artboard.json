@@ -17,7 +17,7 @@
         "fileFormat": "png",
         "name": "",
         "namingScheme": 0,
-        "scale": 2,
+        "scale": 1,
         "visibleScaleType": 0
       }
     ],
@@ -49,7 +49,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
@@ -81,18 +81,22 @@
     },
     {
       "class": "group",
-      "id": "DC806EF9-56E7-4FA2-A477-8774791AC062"
-    },
-    {
-      "class": "group",
       "id": "9CBBA8D6-DABC-4D7E-8A89-B2249E989E8B"
     },
     {
       "class": "group",
+      "id": "A720B812-2B37-4CD4-8D3E-B6BB13C39B32"
+    },
+    {
+      "class": "group",
       "id": "E9A61A5A-9B5B-4B2D-A5C1-580E68D69C52"
+    },
+    {
+      "class": "slice",
+      "id": "67A8968A-8A18-42D8-A9F3-5A6039DB448C"
     }
   ],
-  "name": "Campaign Detail - Mockup 04",
+  "name": "Campaign Detail",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

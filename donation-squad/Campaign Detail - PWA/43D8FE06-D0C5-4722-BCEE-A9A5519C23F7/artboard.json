@@ -11,6 +11,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -20,7 +29,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 3616,
+    "height": 3703,
     "width": 360,
     "x": -923,
     "y": -2257
@@ -81,6 +90,10 @@
       "id": "83C2F7E4-7FF6-4581-83A4-42E9C72A32AA"
     },
     {
+      "class": "shapeGroup",
+      "id": "6FFF06E9-11B0-436F-AF8E-09362C69CE7C"
+    },
+    {
       "class": "group",
       "id": "C0478045-9B69-410C-B251-2CBBD67D85FB"
     },
@@ -91,6 +104,54 @@
     {
       "class": "symbolInstance",
       "id": "712946AF-DD04-4C65-BFFA-2D17C1CC4A7A"
+    },
+    {
+      "class": "group",
+      "id": "E75C6411-4591-4E16-BE5D-0793AF37EBE1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "23984BD4-74A1-4376-8E4F-19E3D5F3AE44"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9F81CFEE-6F99-4C72-8716-AB052CE7EC93"
+    },
+    {
+      "class": "text",
+      "id": "B4B333AD-D27B-488B-BE0D-FED4DEAA27DC"
+    },
+    {
+      "class": "text",
+      "id": "8642C6CF-4F14-44FF-B09E-AA94B1478538"
+    },
+    {
+      "class": "group",
+      "id": "B5475CC1-DA28-45D9-8615-3E652B048DC5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DFD8E6C4-B16B-45ED-8193-AB48E4445CC4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7DE00E91-47A9-4B99-A5E6-13E4BCE8B478"
+    },
+    {
+      "class": "group",
+      "id": "3D022884-5950-4033-9983-CC477BED2400"
+    },
+    {
+      "class": "group",
+      "id": "D8E702F3-58F8-45E3-BE1E-F18164DDCDDE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DB842143-5963-40E4-AF2F-7C2FF4F72BDB"
+    },
+    {
+      "class": "group",
+      "id": "06BD0669-45AD-42EC-9300-A7CC536C92C5"
     }
   ],
   "name": "00_Campaign-New__Full-Updated",

@@ -17,12 +17,12 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans-Bold",
-              "size": 16
+              "size": 14
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2
+            "alignment": 1
           }
         },
         "length": 2,
@@ -46,12 +46,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 22,
-    "width": 19,
-    "x": 248,
-    "y": 120
+    "height": 19,
+    "width": 16,
+    "x": 252,
+    "y": 107
   },
-  "glyphBounds": "{{0, 5}, {16, 13}}",
+  "glyphBounds": "{{0, 4}, {14, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -92,12 +92,12 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "OpenSans-Bold",
-            "size": 16
+            "size": 14
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2
+          "alignment": 1
         }
       },
       "verticalAlignment": 0

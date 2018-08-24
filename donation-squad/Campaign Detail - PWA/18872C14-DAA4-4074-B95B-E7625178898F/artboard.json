@@ -20,13 +20,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 3613,
+    "height": 3703,
     "width": 360,
     "x": -923,
     "y": 1908
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -45,72 +45,68 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "group",
+      "id": "D231AE51-41EE-4513-85FF-5C9A52E50C72"
+    },
+    {
+      "class": "group",
+      "id": "F4F5FF6D-19BF-4A22-9C9B-F41AEAC3708C"
+    },
+    {
+      "class": "group",
+      "id": "18126149-364A-487D-B104-08E3EAFB2090"
+    },
+    {
       "class": "symbolInstance",
-      "id": "C19E5CE4-AABD-49CC-AE21-36D611C959F3"
+      "id": "32B4C423-C457-47F2-A734-BF8DEF7BFBE0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CA322AEF-B1B2-4EF8-9015-EF08D05C2F07"
     },
     {
       "class": "text",
-      "id": "D54616A9-6455-450B-AFE5-B0205CA283D4"
+      "id": "C59B4FD7-834C-4A99-950E-F43BB0EA9F88"
     },
     {
       "class": "text",
-      "id": "DB7FCC08-E1BE-491A-B59D-ECD8DAD18916"
+      "id": "A22321FA-2D03-4E5F-8E9C-F6556384BA32"
     },
     {
-      "class": "symbolInstance",
-      "id": "A85B567B-7853-4400-96C9-750F0956BE2F"
-    },
-    {
-      "class": "group",
-      "id": "6A605CFB-A40A-49D3-B598-714E721310E6"
+      "class": "shapeGroup",
+      "id": "34CA6D66-459D-4684-80DB-412B8BAD012B"
     },
     {
       "class": "group",
-      "id": "76A4CF98-1C80-4083-A1AB-023C391A2EED"
+      "id": "5D963F80-7D9B-4C88-950C-042813689985"
     },
     {
-      "class": "symbolInstance",
-      "id": "CD891AE1-AC64-493F-AC81-9203D710700A"
+      "class": "group",
+      "id": "E264891E-3542-4892-8DA2-9F6FED090E4F"
     },
     {
       "class": "text",
-      "id": "8A37C35E-F854-43CC-8C13-658966DB9016"
+      "id": "4BA63BEF-D925-409F-9284-EF62F041E534"
     },
     {
-      "class": "group",
-      "id": "71EED7E1-4E78-4A40-B1E1-BB82DC35183B"
-    },
-    {
-      "class": "group",
-      "id": "456B6DB8-82DF-4175-903E-4E0AE81F7818"
-    },
-    {
-      "class": "group",
-      "id": "A345E73E-7CD0-40CE-A023-ADD8BF871D64"
-    },
-    {
-      "class": "group",
-      "id": "EBFE9ADA-BC9D-4515-B661-89EE66F42192"
-    },
-    {
-      "class": "group",
-      "id": "FDE6E768-5C84-4A06-95E0-0E1CA637E1DA"
-    },
-    {
-      "class": "group",
-      "id": "FE5AA4C0-C6A5-4791-B71C-141387EE4196"
-    },
-    {
-      "class": "group",
-      "id": "1F916E94-F68F-4374-BFD4-23CE64C7D1DB"
-    },
-    {
-      "class": "group",
-      "id": "87979757-F763-4B8C-896F-19CAB4910B9F"
+      "class": "text",
+      "id": "B19E89D8-AACD-4FE9-B3E2-D1CA9EA6319B"
     },
     {
       "class": "symbolInstance",
-      "id": "7DB7EE52-70FB-4B00-AA74-A26B90568799"
+      "id": "9D75F378-D356-496A-8D88-49794610A0F7"
+    },
+    {
+      "class": "group",
+      "id": "351C344D-7282-458F-A74E-1E12D6E5D1BD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2220B37D-8945-4784-85BB-73D232738CF7"
+    },
+    {
+      "class": "group",
+      "id": "8BDD9FFC-893A-44FE-B0E7-45DE7D24EF70"
     }
   ],
   "name": "00_Campaign-New__Full-Zakat_Updated",

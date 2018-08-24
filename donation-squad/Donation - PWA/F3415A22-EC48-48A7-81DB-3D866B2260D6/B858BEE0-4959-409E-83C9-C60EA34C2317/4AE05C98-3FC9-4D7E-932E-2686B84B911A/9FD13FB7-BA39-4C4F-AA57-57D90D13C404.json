@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Lato-Bold",
+              "name": "OpenSans-Bold",
               "size": 14
             }
           },
@@ -48,12 +48,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "C70FB37F-2D6F-4DA1-8A61-FFCE46ABD854",
-    "height": 17,
+    "height": 19,
     "width": 44,
     "x": 257,
-    "y": 13
+    "y": 12
   },
-  "glyphBounds": "{{0, 3}, {43, 12}}",
+  "glyphBounds": "{{0, 4}, {43, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -86,7 +86,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Lato-Bold",
+            "name": "OpenSans-Bold",
             "size": 14
           }
         },

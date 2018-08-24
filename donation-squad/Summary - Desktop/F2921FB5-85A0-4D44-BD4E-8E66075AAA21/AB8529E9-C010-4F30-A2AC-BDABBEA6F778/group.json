@@ -16,26 +16,34 @@
     "height": 550,
     "width": 480,
     "x": 720,
-    "y": 922
+    "y": 1036
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "A1ECB981-B518-4116-B193-FC40B7F12E25"
     },
     {
+      "class": "text",
+      "id": "07568114-5CF7-4114-A427-1402E6CDD169"
+    },
+    {
+      "class": "text",
+      "id": "C2FE4925-1F28-415F-B1AF-0E0639690325"
+    },
+    {
       "class": "group",
       "id": "D5B753BE-DF30-46F5-AE5C-5730A6F8B55D"
     },
     {
-      "class": "text",
-      "id": "35F54FEF-B225-41BD-A76F-A2CE5C04B540"
+      "class": "group",
+      "id": "BB1C80A3-7545-468D-B781-CCDEF925F271"
     },
     {
       "class": "group",

@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "DD7B9E99-296B-4EB4-9D34-8F7430A2DBCF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 18,
+    "width": 20,
+    "x": 15,
+    "y": 19
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "092F1D85-0C37-4836-87F7-056AB4E7D3F1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ACC1DFC1-0C82-4E6B-9340-5A427A31CB2C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "155C9C26-4FDE-4C19-BD75-D96BA09F0496"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "465D77E3-D6D7-4704-9617-10255BD9C59D"
+    }
+  ],
+  "name": "icon_category-wallet",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 7.2,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

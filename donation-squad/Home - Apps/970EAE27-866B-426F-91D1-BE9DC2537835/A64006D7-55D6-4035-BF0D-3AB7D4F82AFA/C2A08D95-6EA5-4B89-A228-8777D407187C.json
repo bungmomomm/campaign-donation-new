@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C2A08D95-6EA5-4B89-A228-8777D407187C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5740663B-519F-4A83-861C-B1B86970EE82",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "CD76FA5A-8F13-424D-8AC4-D880F68E8255",
+    "height": 50,
+    "width": 50,
+    "x": 0,
+    "y": 3
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Avatar / Campaigner / Large",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "CEB4BB7D-51D1-4470-BE4C-2568754731BB_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/7d1c410437da42aeb6a1b37d5cdc62a962f82b48.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "328614F1-769C-442C-9D49-8E0ADF28D38D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F7A5C6B5-50AA-4F68-858E-D4E006A3839E",
+  "verticalSpacing": 0
+}

@@ -31,7 +31,7 @@
     "constrainProportions": false,
     "height": 3216,
     "width": 1920,
-    "x": 7220,
+    "x": 5200,
     "y": -6711
   },
   "hasBackgroundColor": true,
@@ -49,7 +49,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
@@ -69,6 +69,14 @@
     },
     {
       "class": "group",
+      "id": "2930047A-4EAE-4464-AE55-9F861581326B"
+    },
+    {
+      "class": "group",
+      "id": "58F5EA02-ADE9-4198-A3AD-D0908390E81F"
+    },
+    {
+      "class": "group",
       "id": "FA677E44-A0FB-4F5A-B0B7-36D8E2568CC7"
     },
     {
@@ -81,23 +89,7 @@
     },
     {
       "class": "group",
-      "id": "BE9D61E4-80FF-42E6-9991-2E1D50EB62AF"
-    },
-    {
-      "class": "group",
       "id": "B221E189-C976-49C9-81F4-1206978C74DD"
-    },
-    {
-      "class": "group",
-      "id": "BDD6202A-4815-4007-A653-DE37EB5F81E9"
-    },
-    {
-      "class": "group",
-      "id": "575C535C-784A-46F4-A3BA-7F8388E04FBB"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "973B9AC5-C9B7-4DF5-BB31-5E710F905101"
     },
     {
       "class": "shapeGroup",
@@ -121,23 +113,15 @@
     },
     {
       "class": "group",
-      "id": "16027889-BA39-44CC-AE77-B41CB9FB3966"
-    },
-    {
-      "class": "group",
-      "id": "A299BDCE-3243-4730-B320-73CEE7B409A1"
-    },
-    {
-      "class": "group",
       "id": "6ABDEC37-BE5D-4326-BB9A-09F15A729FA1"
-    },
-    {
-      "class": "group",
-      "id": "89227B92-1EE3-49CE-9F2D-E0D6DE68E359"
     },
     {
       "class": "shapeGroup",
       "id": "B3E11CB2-7DB2-4F8A-B382-2F6BF0B5C9BB"
+    },
+    {
+      "class": "group",
+      "id": "E99B328C-77E0-48EA-A275-BE705C22EFD5"
     },
     {
       "class": "shapeGroup",
@@ -170,6 +154,18 @@
     {
       "class": "symbolInstance",
       "id": "D5A46E14-C858-40AF-8711-6D8B8988B1CD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F82F48DB-8249-45D9-A770-A155E43A3C39"
+    },
+    {
+      "class": "text",
+      "id": "6CC2E2E0-2950-43B7-A8F4-AAB62A094BE0"
+    },
+    {
+      "class": "text",
+      "id": "4861EB3E-CB99-4BB1-8A47-23D5881E92C9"
     },
     {
       "class": "shapeGroup",

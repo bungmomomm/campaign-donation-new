@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 240,
+    "height": 300,
     "width": 360,
     "x": 0,
     "y": 0
@@ -32,6 +32,14 @@
     {
       "class": "bitmap",
       "id": "B2A24064-D8BD-4CAE-8275-DD636901B5D1"
+    },
+    {
+      "class": "bitmap",
+      "id": "B771832B-C8B5-45CD-A1F8-9328A5D91F59"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4549914C-5988-4433-A7F3-5A9D788D9044"
     }
   ],
   "name": "slider",

@@ -25,11 +25,11 @@
             "alignment": 2
           }
         },
-        "length": 7,
+        "length": 8,
         "location": 0
       }
     ],
-    "string": "Donatur"
+    "string": "Tercapai"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "C0A2D614-705F-451B-A4F5-3A0B4A392560",
@@ -46,24 +46,25 @@
   "flow": {
     "_class": "MSImmutableFlowConnection",
     "animationType": 0,
-    "destinationArtboardID": "E228A481-4DC2-493C-9F9F-9C2898DD9703"
+    "destinationArtboardID": "E228A481-4DC2-493C-9F9F-9C2898DD9703",
+    "do_objectID": "0AE64730-1C78-4950-AB2B-FA600F6D7E57"
   },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
     "height": 17,
     "width": 48,
-    "x": 62,
+    "x": 60,
     "y": 110
   },
-  "glyphBounds": "{{1, 4}, {47, 10}}",
+  "glyphBounds": "{{0, 4}, {47, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Donatur",
+  "name": "Tercapai",
   "nameIsFixed": false,
   "originalObjectID": "704CA6B6-683B-485D-A46B-920B636F51D1",
   "resizingConstraint": 45,

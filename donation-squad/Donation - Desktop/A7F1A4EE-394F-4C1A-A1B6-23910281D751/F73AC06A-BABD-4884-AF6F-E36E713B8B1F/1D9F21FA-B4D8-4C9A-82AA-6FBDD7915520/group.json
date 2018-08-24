@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "1D9F21FA-B4D8-4C9A-82AA-6FBDD7915520",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9A051C98-E78F-4B60-A87F-EC31AAAC18F3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0F2D0928-CC99-42F7-BE1F-B3AA2B3A5C59",
+    "height": 34,
+    "width": 295,
+    "x": 31,
+    "y": 308
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "4E2D0649-3E21-41F4-9BB2-4DD6D0F16901"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BC5C1C4A-DE5E-4B24-9B1F-A183E4F1EF87"
+    }
+  ],
+  "name": "Agreement",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7AD15C11-16B1-4899-8374-C2EDE30A67FD",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

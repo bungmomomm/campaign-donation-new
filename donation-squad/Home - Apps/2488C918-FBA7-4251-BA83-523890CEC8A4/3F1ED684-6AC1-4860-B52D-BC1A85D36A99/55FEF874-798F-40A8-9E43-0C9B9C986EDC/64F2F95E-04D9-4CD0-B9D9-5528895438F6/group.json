@@ -1,0 +1,77 @@
+{
+  "_class": "group",
+  "do_objectID": "64F2F95E-04D9-4CD0-B9D9-5528895438F6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D0C605E2-4E20-429C-A74C-BA7742041C77",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "77FA7A79-F5F2-4526-8BC2-1EF0F59BB913",
+    "height": 22,
+    "width": 23,
+    "x": 27,
+    "y": 14
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "7F4C7DB6-8B05-418B-B16C-28ED1B697423"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BE39E962-88C2-4251-BD8D-8B6934E484BB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E01EDD47-2B4B-4457-8774-96C126101860"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7CF7D7B0-EA63-4199-905E-3CE44530366E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5F76DE5A-7627-4447-8535-2CD0DBC6ABF6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "95218357-1CE2-4B7A-8347-F9B0998AA4D1"
+    }
+  ],
+  "name": "rumah ibadah",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "9730A667-22C7-4270-9D67-26F194C4C8A7",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 3,
+      "type": 0
+    },
+    "do_objectID": "AC512BEE-25B9-499E-887F-5F7CE6310CDB",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

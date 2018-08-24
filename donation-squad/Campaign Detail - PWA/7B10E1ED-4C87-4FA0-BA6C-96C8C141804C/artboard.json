@@ -22,11 +22,11 @@
     "constrainProportions": false,
     "height": 640,
     "width": 360,
-    "x": 6437,
-    "y": -2257
+    "x": 464,
+    "y": 10321
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -348,10 +348,6 @@
     },
     {
       "class": "group",
-      "id": "83017A49-F7E5-422C-831F-BE0018055C26"
-    },
-    {
-      "class": "group",
       "id": "62AD0971-1D78-4064-B490-AA8C8A585464"
     },
     {
@@ -409,6 +405,10 @@
     {
       "class": "text",
       "id": "7328D423-F963-4B6C-A8AD-54D3E4E1B726"
+    },
+    {
+      "class": "group",
+      "id": "C816B864-6690-4DBA-AF45-8C59D685CD3E"
     }
   ],
   "name": "00_Campaign-New__Full-SmartBanner Copy 2",

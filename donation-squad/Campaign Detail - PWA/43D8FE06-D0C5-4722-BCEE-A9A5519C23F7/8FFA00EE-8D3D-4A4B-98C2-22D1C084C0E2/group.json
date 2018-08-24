@@ -13,17 +13,17 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 125,
-    "width": 320,
-    "x": 20,
-    "y": 500
+    "height": 155,
+    "width": 360,
+    "x": 0,
+    "y": 514
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "text",
@@ -36,6 +36,10 @@
     {
       "class": "group",
       "id": "00FFF524-B083-47D7-87BB-B6CD73F3210A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "70783D19-7940-4029-8C63-BF235C94CA23"
     }
   ],
   "name": "Campaigner",

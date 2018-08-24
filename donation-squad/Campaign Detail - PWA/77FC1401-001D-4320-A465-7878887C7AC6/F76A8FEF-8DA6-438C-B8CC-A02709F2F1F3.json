@@ -25,7 +25,7 @@
             "alignment": 0
           }
         },
-        "length": 7,
+        "length": 8,
         "location": 0
       },
       {
@@ -50,8 +50,8 @@
             "alignment": 0
           }
         },
-        "length": 9,
-        "location": 7
+        "length": 17,
+        "location": 8
       },
       {
         "_class": "stringAttribute",
@@ -76,7 +76,7 @@
           }
         },
         "length": 1,
-        "location": 16
+        "location": 25
       },
       {
         "_class": "stringAttribute",
@@ -101,10 +101,10 @@
           }
         },
         "length": 9,
-        "location": 17
+        "location": 26
       }
     ],
-    "string": "Anonim berdonasi Rp 50.675"
+    "string": "Anonim \nBerdonasi sebesar Rp 50.675"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "F76A8FEF-8DA6-438C-B8CC-A02709F2F1F3",
@@ -123,12 +123,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "4F6F7C6F-2811-45AA-AADA-3DB0E5F6D1F6",
-    "height": 19,
-    "width": 194,
+    "height": 38,
+    "width": 191,
     "x": 115,
-    "y": 152
+    "y": 142
   },
-  "glyphBounds": "{{0, 4}, {193, 15}}",
+  "glyphBounds": "{{0, 4}, {190, 34}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

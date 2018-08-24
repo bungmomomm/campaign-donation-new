@@ -16,7 +16,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "47EDB90B-9A8E-4E71-8B25-946C6952B729",
-    "height": 81,
+    "height": 71,
     "width": 330,
     "x": 0,
     "y": 0
@@ -42,16 +42,6 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "borderOptions": {
-      "_class": "borderOptions",
-      "dashPattern": [
-        5
-      ],
-      "do_objectID": "8E0CC5D0-69CB-446D-A757-DBE7531188D2",
-      "isEnabled": false,
-      "lineCapStyle": 0,
-      "lineJoinStyle": 0
-    },
     "borders": [
       {
         "_class": "border",
@@ -65,7 +55,7 @@
         "fillType": 0,
         "isEnabled": true,
         "position": 1,
-        "thickness": 1
+        "thickness": 0.5
       }
     ],
     "do_objectID": "FB61465F-9CD6-441E-A967-ECE98B0476DC",
