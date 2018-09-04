@@ -27,7 +27,7 @@
             "minimumLineHeight": 17
           }
         },
-        "length": 43,
+        "length": 25,
         "location": 0
       },
       {
@@ -55,7 +55,7 @@
           }
         },
         "length": 18,
-        "location": 43
+        "location": 25
       },
       {
         "_class": "stringAttribute",
@@ -82,7 +82,7 @@
           }
         },
         "length": 13,
-        "location": 61
+        "location": 43
       },
       {
         "_class": "stringAttribute",
@@ -109,7 +109,7 @@
           }
         },
         "length": 1,
-        "location": 74
+        "location": 56
       },
       {
         "_class": "stringAttribute",
@@ -136,10 +136,10 @@
           }
         },
         "length": 1,
-        "location": 75
+        "location": 57
       }
     ],
-    "string": "Pembayaran dapat dilakukan ke rekening a/n Yayasan Kita Bisa berikut ini :  "
+    "string": "Transfer ke rekening a/n Yayasan Kita Bisa berikut ini :  "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "2D2787EA-C344-4A65-8DC2-F4F5E739EB27",
@@ -157,18 +157,18 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 34,
-    "width": 278.5,
-    "x": 42.5,
+    "width": 320,
+    "x": 20,
     "y": 401
   },
-  "glyphBounds": "{{6, 3}, {268, 32}}",
+  "glyphBounds": "{{18, 3}, {283, 29}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Pembayaran dapat dil",
+  "name": "Transfer ke rekening",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -17,7 +17,7 @@
     "height": 30,
     "width": 55,
     "x": 196,
-    "y": 84
+    "y": 74
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -56,6 +56,11 @@
         "thickness": 0.5
       }
     ],
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.5
+    },
     "endDecorationType": 0,
     "fills": [
       {
