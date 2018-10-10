@@ -20,7 +20,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 3605,
+    "height": 2445,
     "width": 360,
     "x": -463,
     "y": 1908
@@ -46,10 +46,6 @@
   "layers": [
     {
       "class": "group",
-      "id": "FFB94943-C3E3-4C15-A29D-67090B710849"
-    },
-    {
-      "class": "group",
       "id": "B511C911-58B7-4013-B92E-80D368D52D9B"
     },
     {
@@ -59,6 +55,10 @@
     {
       "class": "symbolInstance",
       "id": "4D88F7B7-1854-4D7B-90D0-4C66456510F4"
+    },
+    {
+      "class": "group",
+      "id": "B7ED366F-0346-4985-83B5-5273406D5ED4"
     },
     {
       "class": "shapeGroup",

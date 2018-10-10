@@ -29,7 +29,7 @@
     "y": 718
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -77,6 +77,10 @@
     {
       "class": "symbolInstance",
       "id": "A21F4883-A394-40CE-8663-2CEB3F8986A8"
+    },
+    {
+      "class": "group",
+      "id": "41A26B01-3815-402F-9767-E5F1A483F7B6"
     }
   ],
   "name": "Explore - Special Events Campaign",

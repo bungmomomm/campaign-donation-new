@@ -26,7 +26,7 @@
     "y": 10321
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -399,12 +399,28 @@
       "id": "E60452D4-62F2-446B-A73C-CC99F5053F40"
     },
     {
-      "class": "symbolInstance",
-      "id": "D25CAEC3-2375-4BE1-A969-2C5847E86A41"
-    },
-    {
       "class": "group",
       "id": "753E5A33-FE36-4E44-A64E-E08600BE8B01"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "93E1C6DB-E5B2-435B-A90D-04E57B2AF93C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C5F27A07-1C6C-4B69-91FF-6B477C149068"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "07A9E53E-713E-4E3C-A03E-50C7C29405CD"
+    },
+    {
+      "class": "text",
+      "id": "37AC20D1-7AAF-40B2-A14C-2061E79BB742"
+    },
+    {
+      "class": "text",
+      "id": "31B8A256-79C7-4EF7-9761-77EFB868F295"
     }
   ],
   "name": "00_Campaign-New__Full-SmartBanner Copy",
