@@ -34,6 +34,8 @@
     "string": "Badan Amil Zakat Nasional (BAZNAS) adalah lembaga negara non-struktural yang berperan sebagai penyedia bantuan jaminan sosial bagi fakir-miskin di tanah air. BAZNAS juga berperan dalam menyebarluaskan nilai-nilai zakat di tengah masyarakat yang meliputi nilai keimanan, etos kerja, etika mencari rezeki yang halal dan baik serta character building sebagai insan yang harus memberi manfaat bagi sesama.\n\nPada 2017 ini, BAZNAS (secara nasional) menargetkan pengentasan 1% angka kemiskinan di Indonesia, atau setara dengan 280 ribu jiwa (data BPS). Pekerjaaan besar ini akan dilakukan bersama oleh BAZNAS Pusat dan BAZNAS daerah serta bekerjasama dengan banyak pihak terkait. BAZNAS Pusat sendiri akan mengambil porsi 10% dari target capaian BAZNAS secara nasional. Artinya, 28 ribu orang miskin di Indonesia (6000 keluarga) harus mengalami perbaikan dari sisi kehidupan dan penghidupan."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "9210274C-5846-4E92-A89E-A296C1032797",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -54,6 +56,8 @@
     "y": 69
   },
   "glyphBounds": "{{0, 5}, {319, 435}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -68,9 +72,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -96,7 +100,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 2
 }

@@ -32,6 +32,8 @@
     "string": "Tercapai"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "884F4F59-F06D-4C16-A12C-C0DDA117A4A7",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -54,6 +56,8 @@
     "y": 52
   },
   "glyphBounds": "{{0, 4}, {46, 12}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -76,12 +80,13 @@
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 11.52,
+      "saturation": 1,
       "type": 0
     },
     "do_objectID": "A0FCD2EC-33A8-4BF4-AF95-368C3B013D23",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "ACD364C7-0C41-4604-A591-5580EC6F56A1",
@@ -106,7 +111,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

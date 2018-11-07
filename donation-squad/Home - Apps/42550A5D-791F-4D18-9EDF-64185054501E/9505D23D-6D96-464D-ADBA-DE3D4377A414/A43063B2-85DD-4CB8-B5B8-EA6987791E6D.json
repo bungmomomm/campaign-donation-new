@@ -82,6 +82,8 @@
     "string": "Anda dan 10 temanmu telah membantu bayi ini sembuh Bantu dik Khaira implan Koklea"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "A43063B2-85DD-4CB8-B5B8-EA6987791E6D",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -104,6 +106,8 @@
     "y": 19
   },
   "glyphBounds": "{{0, 3}, {231, 45}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -126,12 +130,13 @@
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 11.52,
+      "saturation": 1,
       "type": 0
     },
     "do_objectID": "10AEDE50-EFB7-451B-A342-705C888B7ADA",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "F5674FC2-AF9F-46FE-A69D-A3C0B78886D8",
@@ -156,7 +161,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1,
   "userInfo": {

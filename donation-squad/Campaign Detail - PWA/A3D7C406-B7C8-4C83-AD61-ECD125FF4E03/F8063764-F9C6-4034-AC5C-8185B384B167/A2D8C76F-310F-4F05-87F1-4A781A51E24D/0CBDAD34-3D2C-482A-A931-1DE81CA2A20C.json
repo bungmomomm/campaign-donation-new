@@ -61,6 +61,8 @@
     "string": "Aplikasi Kitabisa, Aplikasinya #OrangBaik"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "0CBDAD34-3D2C-482A-A931-1DE81CA2A20C",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -83,6 +85,8 @@
     "y": 19
   },
   "glyphBounds": "{{0, 3}, {138, 29}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -98,9 +102,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "022F4E1E-F84F-4D75-9042-DC1FCCEC88AC",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "3A0611C1-9EF6-4C75-B9BC-A5D058BEF6F7",
@@ -127,7 +131,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

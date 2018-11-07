@@ -32,6 +32,8 @@
     "string": "Kabar Terbaru (3)"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "AE7A7135-F6D8-4C5D-B84B-66F8349FB9B1",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -54,6 +56,8 @@
     "y": 12
   },
   "glyphBounds": "{{26, 4}, {128, 16}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -69,9 +73,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "E53086F0-A012-4F09-BC9C-732B6A17FD4A",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "3101A4A5-B9A4-4BF5-B345-D46F8D43B2CB",
@@ -96,7 +100,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

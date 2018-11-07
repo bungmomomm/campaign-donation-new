@@ -31,6 +31,8 @@
     "string": "© 2018 PT Kita Bisa Indonesia"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "18777035-0946-467A-902A-D0053130CBE9",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -53,6 +55,8 @@
     "y": 16
   },
   "glyphBounds": "{{0, 3}, {166, 11}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -68,9 +72,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "8D65571B-48DB-42DF-9F29-AFACA58D3F50",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "11050715-FE77-40D9-91F5-50A04E7C1907",
@@ -94,7 +98,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

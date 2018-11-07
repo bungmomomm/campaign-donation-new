@@ -32,6 +32,8 @@
     "string": "Lihat semua Donatur"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "2B61119B-1BF4-419C-AA91-725B2ED23756",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -60,6 +62,8 @@
     "y": 1957
   },
   "glyphBounds": "{{1, 4}, {137, 12}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -75,9 +79,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "10C6B78E-D7E6-479C-9C0B-DAA872B24E6F",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "2C77C618-1CBD-493E-873C-9A2990A57FA6",
@@ -102,7 +106,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

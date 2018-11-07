@@ -34,6 +34,8 @@
     "string": "Lihat Lainnya"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "B7BA6B86-2985-4E54-B1A2-68C3503B01AC",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -56,6 +58,8 @@
     "y": 814
   },
   "glyphBounds": "{{1, 4}, {102, 17}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -77,12 +81,13 @@
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 7.199999999999999,
+      "saturation": 1,
       "type": 0
     },
     "do_objectID": "3B65EF6A-597D-42FC-9F13-9A45A66B0882",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "ED68B4E6-742F-42F1-8ED5-C1D02D4BBF7F",
@@ -109,7 +114,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

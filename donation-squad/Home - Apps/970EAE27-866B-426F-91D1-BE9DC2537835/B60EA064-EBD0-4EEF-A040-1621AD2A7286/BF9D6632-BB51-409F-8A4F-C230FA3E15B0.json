@@ -82,6 +82,8 @@
     "string": "Anda dan ratusan orang lain telah membantu membantu membangun masjid Bantu Bangun Masjid di Lombok"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "BF9D6632-BB51-409F-8A4F-C230FA3E15B0",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -104,6 +106,8 @@
     "y": 19
   },
   "glyphBounds": "{{0, 3}, {242, 47}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -126,12 +130,13 @@
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 11.52,
+      "saturation": 1,
       "type": 0
     },
     "do_objectID": "90C6B4FA-2DC8-4D15-A52C-EC23981E334A",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "29C1FADB-8DB4-4B06-9DF8-302E864423DA",
@@ -156,7 +161,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1,
   "userInfo": {

@@ -107,6 +107,8 @@
     "string": "Ikhwan Akhmad \nBerdonasi sebesar Rp 250.179"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "F06F9862-2685-4960-9191-6460A8C78AAF",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -127,6 +129,8 @@
     "y": 672
   },
   "glyphBounds": "{{1, 4}, {197, 34}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -148,11 +152,12 @@
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 11.52,
+      "saturation": 1,
       "type": 0
     },
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -176,7 +181,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1,
   "userInfo": {

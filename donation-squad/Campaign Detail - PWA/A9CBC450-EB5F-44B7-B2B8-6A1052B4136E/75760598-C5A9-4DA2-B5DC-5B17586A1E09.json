@@ -32,6 +32,8 @@
     "string": "Laporkan Penyalahgunaan Penggalangan Dana"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "75760598-C5A9-4DA2-B5DC-5B17586A1E09",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -54,6 +56,8 @@
     "y": 232
   },
   "glyphBounds": "{{38, 4}, {204, 39}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -69,9 +73,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "3DDBD980-03B6-443F-9B6D-FEBFA6A6FCFA",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "6D291960-A0C7-40AB-A867-287A4E0A233A",
@@ -96,7 +100,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

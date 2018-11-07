@@ -107,6 +107,8 @@
     "string": "Anonim \nBerdonasi sebesar Rp 50.675"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "AF0B3043-84F3-41AA-BABC-23514980C0CA",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -129,6 +131,8 @@
     "y": 13
   },
   "glyphBounds": "{{0, 4}, {190, 34}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -151,12 +155,13 @@
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 11.52,
+      "saturation": 1,
       "type": 0
     },
     "do_objectID": "68E114F5-3504-4851-A800-3DCECCB6D2BF",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "1CFE3B80-C868-4E54-970C-7BD3A4972B69",
@@ -181,7 +186,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

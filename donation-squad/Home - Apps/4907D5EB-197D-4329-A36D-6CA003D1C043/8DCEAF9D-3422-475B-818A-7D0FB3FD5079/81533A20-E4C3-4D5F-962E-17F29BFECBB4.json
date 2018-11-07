@@ -107,6 +107,8 @@
     "string": "Gilang Songoku mengajak 10 orang berdonasi Rp 250.179"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "81533A20-E4C3-4D5F-962E-17F29BFECBB4",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -129,6 +131,8 @@
     "y": 15
   },
   "glyphBounds": "{{0, 4}, {195, 34}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -151,12 +155,13 @@
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 11.52,
+      "saturation": 1,
       "type": 0
     },
     "do_objectID": "E144AA47-CEC8-4A1F-B7AD-15EE224FAF38",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "20A3702D-1E14-4396-BEDF-D1EA3629BF25",
@@ -181,7 +186,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1,
   "userInfo": {

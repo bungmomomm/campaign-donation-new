@@ -107,6 +107,8 @@
     "string": "Ikhwan Akhmad berdonasi Rp 250.179"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "E233DFB2-1280-4735-985F-B8F291F89ED1",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -129,6 +131,8 @@
     "y": 1675
   },
   "glyphBounds": "{{1, 4}, {182, 34}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -151,12 +155,13 @@
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 11.52,
+      "saturation": 1,
       "type": 0
     },
     "do_objectID": "30CFE871-BEE5-4603-9718-9C5960E45434",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "987AE1DF-4CC6-482E-971C-5A8939ADDF18",
@@ -181,7 +186,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1,
   "userInfo": {

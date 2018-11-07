@@ -107,6 +107,8 @@
     "string": "Bung Momo \nBerdonasi sebesar Rp 50.675"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "34E096DA-3E1E-4F2F-B7FA-80BAA5C5EB88",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -129,6 +131,8 @@
     "y": 413
   },
   "glyphBounds": "{{1, 5}, {189, 33}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -151,12 +155,13 @@
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 11.52,
+      "saturation": 1,
       "type": 0
     },
     "do_objectID": "656B5636-8A2E-4442-BE16-B7BF0A62E175",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "C8605B69-1523-4ECF-8330-2F761B66D0B6",
@@ -181,7 +186,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

@@ -33,6 +33,8 @@
     "string": "Ingin Galang Dana Online seperti ini ?"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "CD75EA90-F6F3-4B28-A489-D4E62EDA3FE5",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -55,6 +57,8 @@
     "y": 0
   },
   "glyphBounds": "{{1, 4}, {298, 17}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -70,9 +74,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "496BC9F5-945C-4494-A08E-354518B8F5D4",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "71DE6806-7388-4193-A8AB-E9E8A420A09D",
@@ -98,7 +102,8 @@
         "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

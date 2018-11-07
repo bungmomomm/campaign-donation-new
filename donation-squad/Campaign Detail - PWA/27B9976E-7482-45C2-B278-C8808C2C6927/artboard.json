@@ -7,6 +7,8 @@
     "green": 1,
     "red": 1
   },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "27B9976E-7482-45C2-B278-C8808C2C6927",
   "exportOptions": {
     "_class": "exportOptions",
@@ -29,13 +31,14 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 3148,
+    "height": 2351,
     "width": 360,
     "x": 5517,
-    "y": -2257
+    "y": -1797
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -46,12 +49,13 @@
   },
   "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
@@ -60,10 +64,6 @@
     {
       "class": "text",
       "id": "F73CD747-0F7E-4CB9-BB00-3D98132CD3E8"
-    },
-    {
-      "class": "group",
-      "id": "03983007-EB94-436D-A508-D080B9C90734"
     },
     {
       "class": "group",
@@ -86,12 +86,16 @@
       "id": "D1258643-8E76-410C-8007-191B4F9D5305"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "251FFD69-70F6-4392-ABD7-BED99BD854C1"
     },
     {
       "class": "group",
       "id": "4F5D9C62-BEBC-404F-AA4B-8F3E37DE5185"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "51FEE96F-F6D6-463E-B59C-446BA6165F37"
     },
     {
       "class": "group",
@@ -110,7 +114,11 @@
       "id": "3035C630-E1FB-4966-8CD3-1FC2DC3391D6"
     },
     {
-      "class": "shapeGroup",
+      "class": "group",
+      "id": "77ADA786-4952-4FE9-8D51-FDF127355308"
+    },
+    {
+      "class": "rectangle",
       "id": "85499B0F-B3B0-4262-8863-8B8157628DDD"
     },
     {
@@ -130,7 +138,7 @@
       "id": "9A1AB9EA-8D01-4067-9DD9-5C2AD95CBD25"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "D5BA4864-1101-434F-8BD3-5823226EBB9B"
     },
     {
@@ -166,9 +174,10 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "verticalRulerData": {
     "_class": "rulerData",

@@ -32,6 +32,8 @@
     "string": "Zakat Untuk Pendidikan Anak Kurang Mampu"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "06C8CF36-BEE5-4A05-8C90-453BB2D27C07",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -48,10 +50,12 @@
     "constrainProportions": false,
     "height": 48,
     "width": 260,
-    "x": 4,
+    "x": 5,
     "y": 0
   },
   "glyphBounds": "{{0, 5}, {217, 43}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -73,11 +77,12 @@
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 11.52,
+      "saturation": 1,
       "type": 0
     },
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -101,7 +106,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1,
   "userInfo": {

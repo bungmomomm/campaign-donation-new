@@ -1,5 +1,7 @@
 {
   "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "510D7B08-3D34-4BEB-8535-F833EF7AC742",
   "exportOptions": {
     "_class": "exportOptions",
@@ -18,7 +20,9 @@
     "x": 1,
     "y": 0
   },
+  "hasClippingMask": false,
   "horizontalSpacing": 0,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -32,7 +36,7 @@
       "overrideName": "CEB4BB7D-51D1-4470-BE4C-2568754731BB_image",
       "value": {
         "_class": "MSJSONFileReference",
-        "_ref": "images/7d1c410437da42aeb6a1b37d5cdc62a962f82b48.png",
+        "_ref": "images/6284daf59b7c6b78e236b4cc260cab513f712fb0.png",
         "_ref_class": "MSImageData"
       }
     }
@@ -44,9 +48,10 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "symbolID": "F7A5C6B5-50AA-4F68-858E-D4E006A3839E",
   "verticalSpacing": 0

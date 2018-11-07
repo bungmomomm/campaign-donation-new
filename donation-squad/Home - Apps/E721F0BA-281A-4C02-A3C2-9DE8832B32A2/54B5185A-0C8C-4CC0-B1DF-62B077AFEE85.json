@@ -57,6 +57,8 @@
     "string": "70% dari target Anda Rp 700.000 tiap bulan"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "54B5185A-0C8C-4CC0-B1DF-62B077AFEE85",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -79,6 +81,8 @@
     "y": 251
   },
   "glyphBounds": "{{3, 3}, {244, 13}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -94,9 +98,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "BC2A5ED2-3124-412C-AAB4-4BA4BE6313FB",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "1DE3E5C2-4AE5-4A40-A534-176A79084E1B",
@@ -121,7 +125,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

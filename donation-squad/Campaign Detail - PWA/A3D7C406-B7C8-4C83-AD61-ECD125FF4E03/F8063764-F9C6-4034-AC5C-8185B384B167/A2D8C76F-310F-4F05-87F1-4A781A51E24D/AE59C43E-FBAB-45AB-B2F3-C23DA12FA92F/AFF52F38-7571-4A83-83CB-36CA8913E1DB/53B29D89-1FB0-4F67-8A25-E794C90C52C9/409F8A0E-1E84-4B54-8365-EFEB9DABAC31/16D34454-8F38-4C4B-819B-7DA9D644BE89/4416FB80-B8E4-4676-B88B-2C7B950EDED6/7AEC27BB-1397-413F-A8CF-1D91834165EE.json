@@ -34,6 +34,8 @@
     "string": "Kalkulator Zakat"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "7AEC27BB-1397-413F-A8CF-1D91834165EE",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -56,6 +58,8 @@
     "y": 0.5535944440103776
   },
   "glyphBounds": "{{0, 0}, {15, 3}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -78,12 +82,13 @@
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 0.5466138925040642,
+      "saturation": 1,
       "type": 0
     },
     "do_objectID": "95951555-F370-4FAB-8E33-C166BA607A22",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "6D454D06-581A-4130-983B-38CF667C61B7",
@@ -110,7 +115,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1,
   "userInfo": {

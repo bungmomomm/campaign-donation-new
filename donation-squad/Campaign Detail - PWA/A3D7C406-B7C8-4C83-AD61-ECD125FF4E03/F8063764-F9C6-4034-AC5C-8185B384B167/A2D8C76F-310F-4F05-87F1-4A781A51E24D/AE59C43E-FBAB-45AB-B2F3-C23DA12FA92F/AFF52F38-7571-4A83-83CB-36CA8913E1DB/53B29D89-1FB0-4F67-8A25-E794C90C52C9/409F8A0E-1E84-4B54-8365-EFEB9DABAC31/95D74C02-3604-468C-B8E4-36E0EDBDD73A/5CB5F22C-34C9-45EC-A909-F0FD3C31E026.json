@@ -31,6 +31,8 @@
     "string": "Rp 100.000.000"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "5CB5F22C-34C9-45EC-A909-F0FD3C31E026",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -53,6 +55,8 @@
     "y": 2
   },
   "glyphBounds": "{{0, 0}, {14, 3}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -75,12 +79,13 @@
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 0.9636014080000003,
+      "saturation": 1,
       "type": 0
     },
     "do_objectID": "B95B5AE1-FE8E-4430-91C0-5051DE83A6AC",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "A95E003E-A9C8-489C-8788-73D13F85356B",
@@ -104,7 +109,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1,
   "userInfo": {

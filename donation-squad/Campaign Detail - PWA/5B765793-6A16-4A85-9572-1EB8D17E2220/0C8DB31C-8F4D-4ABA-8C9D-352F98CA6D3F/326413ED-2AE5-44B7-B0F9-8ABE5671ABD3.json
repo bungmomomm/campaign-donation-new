@@ -65,6 +65,8 @@
     "string": "Penggalangan dana ini mencurigakan? Laporkan"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "326413ED-2AE5-44B7-B0F9-8ABE5671ABD3",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -87,6 +89,8 @@
     "y": 792
   },
   "glyphBounds": "{{1, 5}, {319, 15}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -102,9 +106,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "EB6361FE-D239-49C4-B4EE-63C8EA1CEE45",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "A5D81D3C-87B9-4DA5-A111-288B29263342",
@@ -133,7 +137,8 @@
         "underlineStyle": 1
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

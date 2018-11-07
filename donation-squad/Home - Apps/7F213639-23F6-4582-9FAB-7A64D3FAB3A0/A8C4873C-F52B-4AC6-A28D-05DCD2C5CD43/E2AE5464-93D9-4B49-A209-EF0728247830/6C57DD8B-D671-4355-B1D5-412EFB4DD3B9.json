@@ -35,6 +35,8 @@
     "string": "Balita & Anak Sakit"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "6C57DD8B-D671-4355-B1D5-412EFB4DD3B9",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -57,6 +59,8 @@
     "y": 48
   },
   "glyphBounds": "{{19, 5}, {163, 15}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -72,7 +76,7 @@
   "style": {
     "_class": "style",
     "do_objectID": "B4D89E5C-FCFC-420C-9E60-0ACDB5326053",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
     "shadows": [
       {
@@ -96,7 +100,7 @@
         "spread": 0
       }
     ],
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "4971B757-1D06-42BD-B9A8-066ABB4495C6",
@@ -124,7 +128,8 @@
         "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

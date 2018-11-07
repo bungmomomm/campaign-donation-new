@@ -35,6 +35,8 @@
     "string": "Bencana Alam"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "6F52A9FB-F7B3-448A-B5AF-392C248C2D13",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -57,6 +59,8 @@
     "y": 48
   },
   "glyphBounds": "{{39, 5}, {122, 15}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -72,7 +76,7 @@
   "style": {
     "_class": "style",
     "do_objectID": "043E3AA9-EF3A-4030-B357-9C5788E6BFAF",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
     "shadows": [
       {
@@ -96,7 +100,7 @@
         "spread": 0
       }
     ],
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "C56C16DA-222B-4197-B05D-62C815EDE849",
@@ -124,7 +128,8 @@
         "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

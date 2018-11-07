@@ -32,6 +32,8 @@
     "string": "Kenal seseorang yang butuh galang dana?"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "D4563B8D-C978-4CA7-82B8-14FFE595007B",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -49,9 +51,11 @@
     "height": 22,
     "width": 324,
     "x": 20,
-    "y": 829
+    "y": 969
   },
   "glyphBounds": "{{1, 4}, {322, 17}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -73,11 +77,12 @@
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 11.52,
+      "saturation": 1,
       "type": 0
     },
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -101,7 +106,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

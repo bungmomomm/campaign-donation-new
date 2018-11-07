@@ -1,5 +1,7 @@
 {
   "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "E46011E1-362B-464F-9C7B-51B22E935089",
   "exportOptions": {
     "_class": "exportOptions",
@@ -26,7 +28,9 @@
     "x": 20,
     "y": 2210
   },
+  "hasClippingMask": false,
   "horizontalSpacing": 0,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -44,9 +48,10 @@
   "style": {
     "_class": "style",
     "do_objectID": "C718B128-BC9B-44B8-9DFD-940664EC7DA3",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "symbolID": "8531F7CF-5840-4D3C-B2C4-1F44177039AA",
   "verticalSpacing": 0

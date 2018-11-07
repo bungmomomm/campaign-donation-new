@@ -35,6 +35,8 @@
     "string": "Rumah Ibadah"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "27390BB0-0AEF-4182-AE5D-DA134D5F0AB7",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -57,6 +59,8 @@
     "y": 53
   },
   "glyphBounds": "{{4, 3}, {67, 9}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -72,9 +76,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "85916987-D08D-4989-B7C3-04090EEE54EE",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "3FC6B32D-2F1A-4B88-8458-F30569CAE8E4",
@@ -102,7 +106,8 @@
         "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

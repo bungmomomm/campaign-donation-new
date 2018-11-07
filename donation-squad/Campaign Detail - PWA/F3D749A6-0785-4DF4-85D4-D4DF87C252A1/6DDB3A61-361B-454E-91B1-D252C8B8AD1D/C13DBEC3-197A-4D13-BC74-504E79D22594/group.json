@@ -1,5 +1,7 @@
 {
   "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "C13DBEC3-197A-4D13-BC74-504E79D22594",
   "exportOptions": {
     "_class": "exportOptions",
@@ -13,12 +15,14 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 879,
+    "height": 961,
     "width": 320,
     "x": 20,
     "y": 69
   },
   "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -30,28 +34,16 @@
       "id": "2709AF23-1196-417B-A1AE-0422375452AC"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "EDC6497B-2E11-4EF9-8BE1-0412584D04EC"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "F4C05448-2F31-49A9-BDE7-A5C9EFEDB77C"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "115F6868-93AB-414B-9578-CD66C4C2FFA0"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "5CFF67C2-3373-44B9-8B00-AD759EBB2799"
-    },
-    {
-      "class": "text",
-      "id": "53CD9A92-25FE-421C-98E5-F7B1BFACCB67"
-    },
-    {
-      "class": "text",
-      "id": "92138CCD-7A1F-439A-803C-9C3BD107281A"
     },
     {
       "class": "group",
@@ -59,19 +51,23 @@
     },
     {
       "class": "group",
-      "id": "D2AF1FB2-094A-43F3-9E8A-81A33F350520"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "B0698CF0-633A-455C-BF8D-2193E72C39AA"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "2F67C099-6F4D-4185-A735-E5EB599EAD42"
+      "id": "27AD0ED8-6CC2-4114-A49C-F498F521ED70"
     },
     {
       "class": "group",
-      "id": "BD4A1530-D041-461E-A106-76F94437CF2C"
+      "id": "F940C74B-9429-4A17-A106-37D51AEF5A0F"
+    },
+    {
+      "class": "shapePath",
+      "id": "B0698CF0-633A-455C-BF8D-2193E72C39AA"
+    },
+    {
+      "class": "oval",
+      "id": "91176D2C-B3EE-449B-BE4F-D107B6D144EA"
+    },
+    {
+      "class": "oval",
+      "id": "2F67C099-6F4D-4185-A735-E5EB599EAD42"
     }
   ],
   "name": "Kabar Terbaru",
@@ -82,8 +78,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

@@ -82,6 +82,8 @@
     "string": "Rp 1.250.218.987 terkumpul dari Rp 2 miliar"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "D82F8E8B-3C10-42F4-9DF3-CDCD8B82FF58",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -102,6 +104,8 @@
     "y": 59
   },
   "glyphBounds": "{{1, 5}, {295, 19}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -123,11 +127,12 @@
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 11.52,
+      "saturation": 1,
       "type": 0
     },
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -151,7 +156,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1,
   "userInfo": {

@@ -1,5 +1,7 @@
 {
   "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "51213E00-B1DC-477E-A9CC-3BC11E64C824",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,6 +23,8 @@
     "y": 110
   },
   "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -48,11 +52,11 @@
       "id": "94D0506D-6DDC-4F56-8A6F-4938B723D9E7"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "FCBBA899-2BE9-4C7A-98B1-6676CA1FF39A"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "69F31A22-D380-4C89-9608-3FDAC2E8B191"
     }
   ],
@@ -66,9 +70,10 @@
   "style": {
     "_class": "style",
     "do_objectID": "364E72A6-4427-40CF-BFB6-D59813A28A46",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {

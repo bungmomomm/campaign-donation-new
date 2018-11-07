@@ -34,6 +34,8 @@
     "string": "Assalamualaikum wr rb.\n\nPerkenalkan nama saya Robi mewakili Yayasan Sayang Anak Bangsa Gotong Royong Indonesia.\n\nKami ingin membantu anak dari salah satu anggota kami yang terlahir dengan kondisi Atresia Ani (tidak ada anus).\n\nBaby Robert lahir 18 Juli 2018 dan kini sedang dirawat di NICU.\n\nBesar harapan kami sahabat bisa memberi bantuan seikhlasnya.\n\nCara donasi:\n\n1. Klik tombol donasi sekarang\n2. Masukan nominal dan pilih metode pembayaran\n3. Transfer ke rekening bank pilihan\nSemoga kebaikan Anda sekalian dibalas oleh Tuhan YME.\n\nRobi\n0813186291234\nrobi@yayasansabgri.com"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "62F51191-E691-4837-80BC-47F764C6CEF2",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -54,6 +56,8 @@
     "y": 69
   },
   "glyphBounds": "{{0, 5}, {309, 561}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -68,9 +72,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -96,7 +100,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 2
 }

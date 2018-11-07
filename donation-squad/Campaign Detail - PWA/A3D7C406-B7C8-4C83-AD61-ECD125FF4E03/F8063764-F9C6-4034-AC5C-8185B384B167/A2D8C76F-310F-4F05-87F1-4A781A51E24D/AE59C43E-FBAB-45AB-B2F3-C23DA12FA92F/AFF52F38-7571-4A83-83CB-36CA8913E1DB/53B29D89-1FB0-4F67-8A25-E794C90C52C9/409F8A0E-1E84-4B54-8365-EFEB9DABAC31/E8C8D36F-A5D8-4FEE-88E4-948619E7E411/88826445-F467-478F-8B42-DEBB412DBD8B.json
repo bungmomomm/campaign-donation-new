@@ -34,6 +34,8 @@
     "string": "Donasi"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "88826445-F467-478F-8B42-DEBB412DBD8B",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -56,6 +58,8 @@
     "y": 2.090263645710002
   },
   "glyphBounds": "{{0, 0}, {6, 3}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -78,12 +82,13 @@
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 0.5466138925040642,
+      "saturation": 1,
       "type": 0
     },
     "do_objectID": "26E7F80B-B40D-4DE0-B7AF-1BCB1C62A8EF",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "CFFFB24A-E974-42DA-8515-04601FA832BA",
@@ -110,7 +115,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1,
   "userInfo": {

@@ -7,6 +7,8 @@
     "green": 1,
     "red": 1
   },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "E5E268C7-5EC3-492E-BB9D-38934702030B",
   "exportOptions": {
     "_class": "exportOptions",
@@ -20,13 +22,14 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 2445,
+    "height": 2585,
     "width": 360,
     "x": -463,
-    "y": 1908
+    "y": 2368
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -37,43 +40,24 @@
   },
   "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
-    {
-      "class": "group",
-      "id": "B511C911-58B7-4013-B92E-80D368D52D9B"
-    },
     {
       "class": "group",
       "id": "A5ECBB70-B9FF-4410-86A7-A6BDFA100492"
     },
     {
-      "class": "symbolInstance",
-      "id": "4D88F7B7-1854-4D7B-90D0-4C66456510F4"
-    },
-    {
       "class": "group",
-      "id": "B7ED366F-0346-4985-83B5-5273406D5ED4"
+      "id": "3C8CBAF0-6598-41C8-A4F8-5F4D8BD036D2"
     },
     {
-      "class": "shapeGroup",
-      "id": "21DEACAC-4E84-4116-96A5-06786DB44A1C"
-    },
-    {
-      "class": "text",
-      "id": "A25FABD4-0086-42DA-B934-7E02B0D84B7A"
-    },
-    {
-      "class": "text",
-      "id": "A3892C97-4716-4C72-89E4-65EA175F77D4"
-    },
-    {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "5F142DBE-4663-4AA5-BF30-34894CC5BA2B"
     },
     {
@@ -125,9 +109,10 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "verticalRulerData": {
     "_class": "rulerData",

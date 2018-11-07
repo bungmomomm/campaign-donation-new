@@ -82,6 +82,8 @@
     "string": "Ridwan Kamil membuat penggalangan dana Simpati Jawa Barat & Gempa Lombok."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "A71D6EB5-CA9F-4C7F-9A7D-D4DD83F7078D",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -104,6 +106,8 @@
     "y": 19
   },
   "glyphBounds": "{{0, 3}, {253, 30}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -126,12 +130,13 @@
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 11.52,
+      "saturation": 1,
       "type": 0
     },
     "do_objectID": "FEA2218F-82EA-404A-AE29-2A107C6753EC",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "60EABED6-49C7-406A-92F1-D20A08F08F14",
@@ -156,7 +161,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1,
   "userInfo": {

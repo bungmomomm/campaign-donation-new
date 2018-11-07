@@ -32,6 +32,8 @@
     "string": "Hari Lagi"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "DCB394A3-D648-4B96-802D-FBBF3E89EBE9",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -48,10 +50,12 @@
     "constrainProportions": false,
     "height": 17,
     "width": 50,
-    "x": 276,
+    "x": 277,
     "y": 123
   },
   "glyphBounds": "{{1, 4}, {48, 12}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -73,11 +77,12 @@
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 11.52,
+      "saturation": 1,
       "type": 0
     },
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -101,7 +106,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

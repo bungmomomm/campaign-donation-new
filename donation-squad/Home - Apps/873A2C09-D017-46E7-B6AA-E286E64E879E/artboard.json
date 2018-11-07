@@ -8,6 +8,8 @@
     "green": 1,
     "red": 1
   },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "873A2C09-D017-46E7-B6AA-E286E64E879E",
   "exportOptions": {
     "_class": "exportOptions",
@@ -30,6 +32,7 @@
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -41,6 +44,7 @@
   },
   "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isFlowHome": false,
@@ -57,7 +61,7 @@
       "id": "599418FC-0391-4905-A1C4-3C5EE73FEBF6"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "C470B9D7-4B6A-47C6-853F-04C51C9F7CC6"
     },
     {
@@ -65,7 +69,7 @@
       "id": "C40D1D35-2B41-4DF6-9EC1-DDAC3FE1DE73"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "67BA2048-6592-4E81-BEE0-B79A16081A70"
     },
     {
@@ -89,7 +93,7 @@
       "id": "5FC31784-5BA0-4725-B589-97EF163FBA44"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "AE42E0A5-ACED-42C7-A5A9-969773336BC7"
     },
     {
@@ -109,7 +113,7 @@
       "id": "C0BCB314-7BE2-42A5-B014-C2CF0526CC47"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "0EA22252-9291-42DD-A6EB-3EEB0CA1F430"
     },
     {
@@ -145,11 +149,11 @@
       "id": "E40905C5-D0EB-41E6-B796-5FC6C193BBBF"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "39EECB6B-C8DD-45A8-ACE8-3C4C28EB1D71"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "5AB2DB15-DE9C-467B-BCCA-CAF0AAA31176"
     },
     {
@@ -178,9 +182,10 @@
   "style": {
     "_class": "style",
     "do_objectID": "8B4E0496-699D-4DD6-B5F9-D5A74CEBF164",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "verticalRulerData": {
     "_class": "rulerData",

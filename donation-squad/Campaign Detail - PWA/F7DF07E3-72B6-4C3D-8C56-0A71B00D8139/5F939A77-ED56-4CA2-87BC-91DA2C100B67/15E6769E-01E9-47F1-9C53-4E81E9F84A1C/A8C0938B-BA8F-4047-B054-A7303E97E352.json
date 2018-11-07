@@ -115,6 +115,8 @@
     "string": "Andre Shakila \nBerdonasi sebesar Rp 10.000"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "A8C0938B-BA8F-4047-B054-A7303E97E352",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -137,6 +139,8 @@
     "y": 59
   },
   "glyphBounds": "{{0, 3}, {164, 31}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -159,12 +163,13 @@
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 11.52,
+      "saturation": 1,
       "type": 0
     },
     "do_objectID": "9668EB5C-CF8B-49D7-9829-F2362131435C",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "B8127518-F259-4F1D-B310-D80DDBD251F3",
@@ -191,7 +196,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

@@ -61,6 +61,8 @@
     "string": "Pencairan Dana Rp 249.271.067\nBaca Selengkapnya"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "236C06D5-A6F0-4FEC-AAD4-97F2D850C1F3",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -81,6 +83,8 @@
     "y": 246
   },
   "glyphBounds": "{{1, 4}, {176, 29}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -95,9 +99,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -123,7 +127,8 @@
         "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

@@ -33,6 +33,8 @@
     "string": "Persalinan Al Fattieh"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "4BE97C8A-D8D8-4976-925A-3641C2ED496A",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -55,6 +57,8 @@
     "y": 327
   },
   "glyphBounds": "{{1, 5}, {185, 15}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -70,7 +74,7 @@
   "style": {
     "_class": "style",
     "do_objectID": "FB12C775-6918-4158-8C52-EBDD4708A70F",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
     "shadows": [
       {
@@ -94,7 +98,7 @@
         "spread": 0
       }
     ],
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "B3C81F8D-ED3C-4CB1-9AC8-1690C1EB9559",
@@ -120,7 +124,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 2
 }

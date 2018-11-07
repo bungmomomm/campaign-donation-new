@@ -61,6 +61,8 @@
     "string": "Campaign ini mencurigakan ? Laporkan"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "B515CD07-8D35-43AA-9F5E-0CFCBA74EDBC",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -83,6 +85,8 @@
     "y": 1815
   },
   "glyphBounds": "{{0, 5}, {261, 15}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -98,9 +102,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "54EE92E4-78B6-4101-B0D3-ACEB9F5DA30E",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "B3CCF591-6D08-445A-A86F-F78D84CC9544",
@@ -127,7 +131,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

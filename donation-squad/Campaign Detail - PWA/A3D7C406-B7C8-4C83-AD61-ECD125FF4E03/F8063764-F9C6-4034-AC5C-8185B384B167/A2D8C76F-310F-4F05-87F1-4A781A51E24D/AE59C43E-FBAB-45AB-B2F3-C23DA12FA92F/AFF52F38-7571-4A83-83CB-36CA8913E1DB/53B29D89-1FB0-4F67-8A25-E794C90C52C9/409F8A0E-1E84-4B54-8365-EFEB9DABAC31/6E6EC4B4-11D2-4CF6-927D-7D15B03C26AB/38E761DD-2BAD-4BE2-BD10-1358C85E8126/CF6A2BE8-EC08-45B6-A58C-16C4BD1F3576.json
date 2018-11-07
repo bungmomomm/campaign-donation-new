@@ -34,6 +34,8 @@
     "string": "Zakat"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "CF6A2BE8-EC08-45B6-A58C-16C4BD1F3576",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -56,6 +58,8 @@
     "y": 1.55359444401011
   },
   "glyphBounds": "{{0, 0}, {5, 3}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -78,12 +82,13 @@
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 0.5466138925040642,
+      "saturation": 1,
       "type": 0
     },
     "do_objectID": "92D0173C-3E5A-478C-9D60-A8293CE901E3",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "BB73E4CD-CF4B-4275-B2E4-82E6D1AF1494",
@@ -110,7 +115,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1,
   "userInfo": {

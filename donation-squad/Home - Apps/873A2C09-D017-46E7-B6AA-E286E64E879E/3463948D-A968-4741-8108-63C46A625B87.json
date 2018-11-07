@@ -33,6 +33,8 @@
     "string": "Data Diri"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "3463948D-A968-4741-8108-63C46A625B87",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -55,6 +57,8 @@
     "y": 356
   },
   "glyphBounds": "{{1, 5}, {67, 13}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -70,7 +74,7 @@
   "style": {
     "_class": "style",
     "do_objectID": "ECE4D17A-3645-4528-A706-5361DFFD6568",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
     "shadows": [
       {
@@ -94,7 +98,7 @@
         "spread": 0
       }
     ],
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "69220226-D92F-4B13-AC1B-4613073F2BB2",
@@ -120,7 +124,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

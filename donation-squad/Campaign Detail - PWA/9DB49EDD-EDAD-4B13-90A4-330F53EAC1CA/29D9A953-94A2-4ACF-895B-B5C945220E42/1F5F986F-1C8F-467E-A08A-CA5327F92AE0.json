@@ -250,6 +250,8 @@
     "string": "Gempa kembali mengguncang Lombok, malam hari ini, Minggu (5/8). Gempa berkekuatan 7 magnitudo itu terasa hingga ke Denpasar, Bali. Pantauan kumparan, gempa ini terasa lebih besar dari gempa sebelumnya.\n\nhttps://youtu.be/8rmNRSZDxkY\n\nGempa ini terasa hingga ke beberapa daerah di Indonesia. Gempa susulan terjadi di Lombok Utara, Minggu (5/8). Menurut informasi dari Badan Meteorologi, Klimatologi, dan Geofisika gempa susulan ini berkekuatan 5,6 magnitudo.\n\nBaca selengkapnya di https://kumparan.com/@kumparannews/bnpb-sekitar-20-ribu-warga-mengungsi-akibat-gempa-lombok-1533295225512258300\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "1F5F986F-1C8F-467E-A08A-CA5327F92AE0",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -270,6 +272,8 @@
     "y": 69
   },
   "glyphBounds": "{{0, 5}, {308, 369}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -284,9 +288,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -312,7 +316,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 2
 }

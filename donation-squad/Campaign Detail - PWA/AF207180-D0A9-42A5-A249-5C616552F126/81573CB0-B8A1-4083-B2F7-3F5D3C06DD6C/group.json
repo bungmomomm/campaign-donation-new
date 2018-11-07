@@ -1,5 +1,7 @@
 {
   "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "81573CB0-B8A1-4083-B2F7-3F5D3C06DD6C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -13,12 +15,14 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 126,
+    "height": 186,
     "width": 322,
     "x": 18,
     "y": 278
   },
   "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -38,24 +42,24 @@
       "id": "4BC67338-2C9F-4206-9170-D04B13315343"
     },
     {
-      "class": "text",
-      "id": "A5DA7EB1-BA33-4DD1-B424-8A86303519C8"
-    },
-    {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "1175A48A-21ED-430B-B368-37E48C71881F"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "08B97034-0BB5-42F0-9795-9F3687F4ABE8"
     },
     {
       "class": "text",
-      "id": "63315546-2E7B-4328-9198-197E211CA2B2"
+      "id": "54ABE76D-B8DB-4F12-B4AA-0C542BF8D03E"
     },
     {
       "class": "text",
-      "id": "24680A67-268B-4116-B037-B2C275CE0EEB"
+      "id": "BF6EFB30-A2FB-4F25-8714-AE388E9A5B2C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "49D2C914-2D92-43A1-B0CD-EE0E3369B5BF"
     }
   ],
   "name": "Heading",
@@ -67,9 +71,10 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {

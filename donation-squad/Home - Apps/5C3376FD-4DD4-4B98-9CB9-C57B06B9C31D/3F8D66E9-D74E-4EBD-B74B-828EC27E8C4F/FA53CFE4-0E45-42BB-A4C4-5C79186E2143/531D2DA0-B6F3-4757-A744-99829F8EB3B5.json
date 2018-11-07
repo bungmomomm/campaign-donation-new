@@ -132,6 +132,8 @@
     "string": "Saya setuju dengan Syarat & Ketentuan Donasi di Kitabisa.com"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "531D2DA0-B6F3-4757-A744-99829F8EB3B5",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -154,6 +156,8 @@
     "y": 0
   },
   "glyphBounds": "{{0, 3}, {265, 28}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -169,9 +173,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "E45944E4-7FCF-40B3-9258-7ADE0F958545",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "313D95BF-EBB6-4B3F-BA43-DE00F6306029",
@@ -196,7 +200,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

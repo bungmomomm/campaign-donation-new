@@ -88,6 +88,8 @@
     "string": "Salam #OrangBaik sekalian\n\nPerkenalkan nama saya Andy, Saya adalah pegawai swasta di Palangkaraya dan seorang Ayah dari 3 anak yang luar biasa. Anak pertama saya bernama REYVANDO EZA IMANNIEL, Usianya 10 tahun dan sedang berjuang berjuang melawan kanker darah / Leukimia yang saat ini menyerang tubuh kecilnya.\n\nReyvando tumbuh secara baik dan normal seperti halnya teman-teman sebayanya tidak ada tanda-tanda bahwa dia akan terserang leukemia. Namun mulai November 2017 awal, pertama kali sakit karena panas tinggi dan nafsu makan berkurang hingga pucat dan kami bawa ke dokter untuk tes darahnya, hasil dari tes darahnya Hb nya 4,5 dan trombosit nya 12rb, kami langsung bawa ke rumah sakit Dorris Sylvanus Palangkaraya. diagnosis dokter adalah Anemia dan harus dirujuk ke RSUD Ulin Banjarmasin untuk pengobatan selanjutnya. "
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "7B4A4A7C-A628-424A-BB4A-01B48E0D064E",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -108,6 +110,8 @@
     "y": 759
   },
   "glyphBounds": "{{0, 5}, {317, 456}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -122,9 +126,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -150,7 +154,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 2
 }

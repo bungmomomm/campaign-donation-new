@@ -1,0 +1,101 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1E3ACAE6-A354-42A4-B73A-BF53D76202F8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "27DEA2F6-953C-4718-9A41-66AFE2637776",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "639C1C7B-0F9C-4AB8-8268-7B5F80F9AB71",
+    "height": 128,
+    "width": 360,
+    "x": 0,
+    "y": 611
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "9714D40F-C8EC-4769-BC73-0DC541800192"
+    },
+    {
+      "class": "text",
+      "id": "14CDAAA1-563E-4463-9E42-2E5B93878DB8"
+    },
+    {
+      "class": "group",
+      "id": "52DB70C0-A36B-4216-8F44-B94511DCC1FA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B11D5198-2607-4706-B7EA-854CE19C80EA"
+    },
+    {
+      "class": "text",
+      "id": "885C91F8-A9A6-4D9F-8C0F-A66BDDCE7491"
+    },
+    {
+      "class": "text",
+      "id": "10C4DFC7-54BD-49B0-A5A4-9B5C6253F242"
+    },
+    {
+      "class": "group",
+      "id": "6D285805-2A81-44A5-B337-C4C7ED1EF247"
+    },
+    {
+      "class": "rectangle",
+      "id": "AF429319-7BD4-4355-940B-7DD2B19BEAF4"
+    },
+    {
+      "class": "rectangle",
+      "id": "66760744-B74B-43B4-875F-BDCFAC16F282"
+    },
+    {
+      "class": "rectangle",
+      "id": "4C000531-4E08-4C5C-BFDE-95978D266CA0"
+    },
+    {
+      "class": "text",
+      "id": "C80B4854-0FDF-4432-ADFD-2D730DD198AA"
+    },
+    {
+      "class": "text",
+      "id": "B1ED8C78-FC9B-4553-B2D4-E90BD8278741"
+    },
+    {
+      "class": "oval",
+      "id": "25FDF628-1922-4834-A5C5-CEAB5509B42B"
+    }
+  ],
+  "name": "Campaigner",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4CA6704C-8FD9-443F-89CC-4AE1BEA4A5D2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
