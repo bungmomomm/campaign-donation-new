@@ -3,6 +3,41 @@
   "assets": {
     "_class": "assetCollection",
     "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2274509803921569,
+        "green": 0.2274509803921569,
+        "red": 0.2274509803921569
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2902374565601349,
+        "green": 0.2901752889156342,
+        "red": 0.290221631526947
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.596078431372549,
+        "green": 0.596078431372549,
+        "red": 0.596078431372549
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9725490196078431,
+        "green": 0.9725490196078431,
+        "red": 0.9725490196078431
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9372549019607843,
+        "green": 0.6823529411764708,
+        "red": 0
+      }
     ],
     "gradients": [
     ],
@@ -1221,11 +1256,12 @@
     "Campaign Detail - Desktop",
     "Summary - PWA",
     "Summary - Desktop",
-    "Donation - Desktop",
     "Donation (ID Phone Number) - PWA",
     "Donation - PWA",
     "Donation - PWA",
     "Donation - PWA (Picker)",
+    "Donation - Desktop",
+    "Page 1",
     "Current",
     "Front",
     "Symbols"
