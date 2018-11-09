@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "58722583-D0B0-40C3-A75F-1FD30045D8E1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "409623D5-0A15-49EE-AFFD-049B01C08AE2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9248F744-38B5-4AA1-BB7C-12A6BD71A237",
+    "height": 25,
+    "width": 50,
+    "x": 0,
+    "y": 9
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "36DD2B01-128E-45C4-8174-E73CD3F7B956"
+    },
+    {
+      "class": "bitmap",
+      "id": "94A20B49-63FC-489F-83C8-266127396070"
+    }
+  ],
+  "name": "logo-bca",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "77193E2A-8212-490D-93C7-289F72F64B97",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

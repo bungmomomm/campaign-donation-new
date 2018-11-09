@@ -1,0 +1,95 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "691DDE02-F30E-4EDD-B6A6-616BFCBCBDA0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3AA74523-FC2D-4BD0-902A-3F4FBE229178",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "22C72781-74B8-4F8F-9617-949E40566288",
+    "height": 90.3147208121826,
+    "width": 57.74257425742557,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "753E4A44-7701-4F10-9DBF-6F5F58FA14EB"
+    },
+    {
+      "class": "rectangle",
+      "id": "B9528FD6-EC84-4303-9FD9-FFB14370688E"
+    },
+    {
+      "class": "rectangle",
+      "id": "DA615098-654A-4925-BA24-9B4E2854AD08"
+    },
+    {
+      "class": "rectangle",
+      "id": "ECC3CCBE-72AE-46DE-866C-BB4ED5735654"
+    },
+    {
+      "class": "oval",
+      "id": "4C0B6337-37B7-4C4B-8207-9DD62BE3DCBB"
+    },
+    {
+      "class": "oval",
+      "id": "323B0227-B8CA-4AB2-BD6B-9E6033987DC7"
+    },
+    {
+      "class": "oval",
+      "id": "2CCBBD89-FEB4-444B-9909-9C3813476DBC"
+    },
+    {
+      "class": "group",
+      "id": "08ED4608-FC67-4AF9-B8D2-37A123801DCE"
+    },
+    {
+      "class": "group",
+      "id": "B9A589D7-896F-4599-82A1-1C237909F0C9"
+    }
+  ],
+  "name": "Group 48 Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "EFC8A288-A741-4B1E-A226-725D9C1A0FE7",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 12,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "11488ACE-2168-4B0C-91E7-88A2C274CC60",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

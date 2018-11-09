@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4DD99B39-00A6-4221-9AB2-C16EDECFC8FB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2EDE7C62-857C-4F2D-9F37-C49C4E47183E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0909A4F7-DD52-4C67-BCD5-F6E47755333B",
+    "height": 34,
+    "width": 295,
+    "x": 31,
+    "y": 299
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "BFDD5443-1C95-4F35-8F3A-EB35515BBA88"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4BD14488-23E0-4A16-8ED9-C0C07453B5B8"
+    }
+  ],
+  "name": "Agreement",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3503D2B2-5B8D-4ACE-9D88-83E7E8E3F4F2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

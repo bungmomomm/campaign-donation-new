@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "82BE4CE1-BA59-46B6-B8C0-49C100635FC2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7051A59E-ED4F-4F1A-98B4-992C7E1B3C3C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 0,
+    "destinationArtboardID": "42769154-02E2-4CED-999B-ADA7375D9264",
+    "do_objectID": "7D2F4F0F-F068-4C9E-A8E9-506E6C50C59D"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C1745705-5ACD-4B35-86CB-9833FB6B7A07",
+    "height": 200,
+    "width": 360,
+    "x": 0,
+    "y": 107
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C738B58F-BEEF-4771-A9EF-85D3BA1C8FB9"
+    },
+    {
+      "class": "bitmap",
+      "id": "0EDD0123-621B-4A97-A833-D632AB7BCA41"
+    },
+    {
+      "class": "bitmap",
+      "id": "472D9D63-ECB6-47C1-8AA2-12F981639644"
+    },
+    {
+      "class": "rectangle",
+      "id": "9BAFCF0B-400C-4BA6-8B0A-1F391248740D"
+    }
+  ],
+  "name": "slider",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F52FD180-A57E-4B91-9C83-3BA2843A3BF9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

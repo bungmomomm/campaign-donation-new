@@ -1,0 +1,90 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6FE7F91B-43F5-47A3-97A9-FEF21E8DE82F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "743DF338-50A1-41CB-9054-41D2388192A4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8C7E8437-909E-4CF8-B30A-C22FE3D5ABFB",
+    "height": 20,
+    "width": 18,
+    "x": 5.334472492337227,
+    "y": 4.5
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "0A91F562-4A54-4987-8DB2-32A0163FD2BC"
+    },
+    {
+      "class": "rectangle",
+      "id": "8B9BD870-0E35-4F96-89B1-ABF404FDDDEA"
+    },
+    {
+      "class": "rectangle",
+      "id": "D95C91F6-1EF9-4354-8860-D0972FC85D88"
+    },
+    {
+      "class": "rectangle",
+      "id": "4BE5D91C-801D-4D1C-A0F8-32CE83FEF621"
+    }
+  ],
+  "name": "Combined Shape",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C17BDF0A-CB51-47BB-BC00-4BF386C3E132",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8509803921568627,
+          "green": 0.8117647058823529,
+          "red": 0.792156862745098
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "windingRule": 1
+}

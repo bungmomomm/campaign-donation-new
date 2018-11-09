@@ -1,0 +1,106 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "616FF87B-3973-46EB-9CA1-C8FBE244E374",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "513D7A1B-7B71-4BC3-A0C6-BAFD5AD5983C",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AE286466-459A-4BC8-8378-473AD69EFAA8",
+    "height": 477,
+    "width": 330,
+    "x": 15,
+    "y": 143
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "29E9EEFF-F4FE-4147-9970-899AA2DC70E7"
+    },
+    {
+      "class": "rectangle",
+      "id": "4D829E92-EB61-4BCD-ABEF-4748A4EF4E3A"
+    },
+    {
+      "class": "group",
+      "id": "D4C168B8-7C03-4352-BE7E-D8FC64ACA6C1"
+    },
+    {
+      "class": "text",
+      "id": "AE51A08C-21D5-4C2E-818C-368805FAF158"
+    },
+    {
+      "class": "rectangle",
+      "id": "25057313-9697-42F8-8988-D306E427BDAA"
+    },
+    {
+      "class": "text",
+      "id": "21DE0649-85B5-455A-93BB-C23ECE8519FB"
+    },
+    {
+      "class": "text",
+      "id": "CECA9EDF-DA19-46F9-905F-279B8C93877C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DFBBA8B8-8A8D-44DB-A909-4A975C606A24"
+    },
+    {
+      "class": "group",
+      "id": "AF87897D-1386-4CB9-BCB2-C38DFE33886F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CAE00F5F-0185-44EE-AA73-F999834FD177"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "473277D9-EEB6-4080-B0B7-D52F216C5BEA"
+    },
+    {
+      "class": "group",
+      "id": "218C7F97-E3DD-4793-9228-FF4241065F26"
+    }
+  ],
+  "name": "fastpay",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "78CFAA4A-C3D4-4D99-831F-EDDFE1110E1F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

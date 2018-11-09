@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "87A968B4-08A9-4913-9030-3AF6F2BA35E6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4AD99516-6FCF-4364-9339-FFF9A1EB794A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C6590A60-5B58-4184-9800-74C1E42064A2",
+    "height": 100,
+    "width": 155,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F0C4DD00-CCC5-4F03-A71E-6AA15BD58891"
+    },
+    {
+      "class": "bitmap",
+      "id": "B73A9FEB-DE25-4414-BC1D-19E2B3A6575E"
+    },
+    {
+      "class": "bitmap",
+      "id": "D1CABE31-AFFB-41AC-8C1D-9389A30C8664"
+    }
+  ],
+  "name": "masjid",
+  "nameIsFixed": false,
+  "originalObjectID": "0846EF3C-73E1-4A22-9504-85B751101455",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FB67613A-06B6-4EAA-B64E-ADEF2B2957A7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

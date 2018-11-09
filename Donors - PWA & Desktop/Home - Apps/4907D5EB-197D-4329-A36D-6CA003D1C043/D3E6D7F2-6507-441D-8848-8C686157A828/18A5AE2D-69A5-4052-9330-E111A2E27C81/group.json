@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "18A5AE2D-69A5-4052-9330-E111A2E27C81",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3231831A-5926-40F4-9C38-2F4C7304BC99",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "67B83AB3-6781-4240-97F5-73D16730C5B5",
+    "height": 50,
+    "width": 50,
+    "x": 0,
+    "y": 2
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "959BA096-7939-43CC-875B-CC3EAB3E55BA"
+    },
+    {
+      "class": "text",
+      "id": "82D14E3D-2C67-4B75-8A91-8CEA69193573"
+    }
+  ],
+  "name": "avatar-campaigner",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "29C3DCCA-619B-4780-8F79-05752635A683",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

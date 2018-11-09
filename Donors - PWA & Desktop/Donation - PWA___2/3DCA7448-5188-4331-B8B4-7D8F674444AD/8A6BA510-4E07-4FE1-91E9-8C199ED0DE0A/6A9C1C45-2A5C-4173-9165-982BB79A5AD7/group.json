@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6A9C1C45-2A5C-4173-9165-982BB79A5AD7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1736C56A-64A9-4879-8880-23CC69451314",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "62D1B693-79F3-486E-8C09-A2020166B265",
+    "height": 15,
+    "width": 100,
+    "x": 238,
+    "y": 20
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "79585A05-31BB-4B1E-B5B6-B13D8CE8321C"
+    },
+    {
+      "class": "group",
+      "id": "A96CC9BB-336B-42E8-B229-146581A00E06"
+    }
+  ],
+  "name": "Campaign - Category",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B16B50F3-AB37-42B4-89C5-44C6024F0D20",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

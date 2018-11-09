@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7CEBFEC0-C071-4778-9D3B-72D7BAE7B712",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7FD7B225-8999-4643-8FF5-5D9F218B7595",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "466036CC-25AB-475B-A296-79148C7D2D04",
+    "height": 13,
+    "width": 11,
+    "x": 6.052631578947368,
+    "y": 8.873239436619718
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "3680154D-69B3-47AC-B5F8-4EEA53B83D0E"
+    }
+  ],
+  "name": "rumah ibadah",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "1085BB1C-24E6-4623-8534-58DCDD893A4D",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 3,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "5F1D7668-870E-4A9F-84C7-A9FA907EB66A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
