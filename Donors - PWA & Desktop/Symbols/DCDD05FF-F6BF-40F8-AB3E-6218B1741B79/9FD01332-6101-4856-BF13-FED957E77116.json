@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "OpenSans-Regular",
+              "name": "OpenSans",
               "size": 12
             }
           },
@@ -51,7 +51,7 @@
     "constrainProportions": false,
     "do_objectID": "4A552B26-F666-47D7-AB3A-58B0AEF1AEF5",
     "height": 17,
-    "width": 320,
+    "width": 319.8225102938094,
     "x": 0,
     "y": 50
   },
@@ -90,7 +90,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "OpenSans-Regular",
+            "name": "OpenSans",
             "size": 12
           }
         },
@@ -103,5 +103,12 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
 }

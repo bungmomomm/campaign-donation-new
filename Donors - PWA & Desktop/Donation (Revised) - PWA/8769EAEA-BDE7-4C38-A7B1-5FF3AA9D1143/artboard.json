@@ -31,7 +31,7 @@
     "y": -321
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -55,10 +55,6 @@
       "id": "960C27CF-A87A-4CF3-9BCC-C363629D4040"
     },
     {
-      "class": "group",
-      "id": "E695462F-3E96-444E-95C7-14E5C80FBAB0"
-    },
-    {
       "class": "text",
       "id": "222678F0-D479-4375-B000-E0B125D6A54A"
     },
@@ -75,28 +71,28 @@
       "id": "CD9A244F-653E-4F52-B99F-E6BE1C0C022B"
     },
     {
-      "class": "group",
-      "id": "7FFF2466-21C2-4C90-959A-3564A37AE25C"
+      "class": "symbolInstance",
+      "id": "5002A9E8-5EF4-434E-BC1C-3492E1EAC622"
     },
     {
-      "class": "group",
-      "id": "3134FA21-4DD6-4C1E-93B2-1A833AB9AB15"
+      "class": "symbolInstance",
+      "id": "77D463C7-E117-4EF6-9439-9A48FABEA19E"
     },
     {
-      "class": "text",
-      "id": "B77D41E9-5A31-4387-9DF6-4FCB2694241F"
-    },
-    {
-      "class": "group",
-      "id": "A99FD120-3734-48F9-872E-C3B9A68C0C44"
-    },
-    {
-      "class": "group",
-      "id": "5C6F7FAD-0F29-442C-BFCE-92E1D5AE785C"
+      "class": "symbolInstance",
+      "id": "01F067FE-59A6-4EDC-A0E2-1478878B474E"
     },
     {
       "class": "group",
       "id": "DEF01B4F-8985-498B-863D-6288785C21CB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "745721FE-FF7E-4415-A49C-4F6D05ADD269"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "710370DA-4A3C-47C1-BC95-0C285977AB8F"
     }
   ],
   "name": "Contribution - 01",
@@ -120,6 +116,12 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

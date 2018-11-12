@@ -28,7 +28,7 @@
     "y": -321
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -48,15 +48,7 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "7AECDD67-474A-414D-9FFB-685291AE85D9"
-    },
-    {
-      "class": "group",
-      "id": "E111E040-2985-4C2C-8DE3-7690DFAF7E4B"
-    },
-    {
-      "class": "group",
-      "id": "89F270A7-1D0C-4785-BA9C-140BAB3CD047"
+      "id": "C31CC334-474D-4C77-9B00-597DEED3412A"
     },
     {
       "class": "text",
@@ -87,16 +79,16 @@
       "id": "32DA6D5F-6145-4E6E-9369-01F720C29D36"
     },
     {
-      "class": "group",
-      "id": "0A94E56D-86B7-47A5-86BF-F596F1A0D0C1"
+      "class": "symbolInstance",
+      "id": "B9E547B3-4AD4-47A5-9157-DBA2F3BF639A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "04A50D19-19E6-49F7-9504-AEFEC477019F"
     },
     {
       "class": "group",
       "id": "F32DD59B-19CC-4718-9BAA-E4BF53871745"
-    },
-    {
-      "class": "group",
-      "id": "F4424ED7-08E7-4415-A36D-87637D2B3400"
     }
   ],
   "name": "Contribution - 02",
@@ -119,6 +111,12 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

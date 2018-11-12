@@ -51,10 +51,6 @@
       "id": "CD43FF00-CD43-4562-A164-5E81EB9622EC"
     },
     {
-      "class": "group",
-      "id": "BC860AF9-D358-404B-97CE-6C3DFD6F38E6"
-    },
-    {
       "class": "text",
       "id": "479EAD40-6CDA-4406-8686-807911FFB77F"
     },
@@ -71,16 +67,16 @@
       "id": "99FB8300-D3C4-4DE9-AD25-89D129362A51"
     },
     {
-      "class": "group",
-      "id": "47931695-A6CC-45A0-9886-36B5E032084A"
+      "class": "symbolInstance",
+      "id": "E5D9BE14-E6F3-483D-9C63-7C05CFC0A116"
     },
     {
-      "class": "group",
-      "id": "B0599FEA-E1F2-42AC-8064-AA857AFCB41A"
+      "class": "symbolInstance",
+      "id": "BD5DA0D2-2579-4932-8FD2-5E52F4D9E513"
     },
     {
-      "class": "group",
-      "id": "6A09B93F-F13F-4C72-8CE2-5B4BADE64F95"
+      "class": "symbolInstance",
+      "id": "C758D006-81B0-4262-B535-27DE6CA57E8D"
     },
     {
       "class": "group",
@@ -89,9 +85,13 @@
     {
       "class": "group",
       "id": "CF715D8B-2CF9-4F14-B1D4-D4558B82132B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "06912E27-A874-4EEB-B0F3-E02EB1A92235"
     }
   ],
-  "name": "Contribution - 01 Copy",
+  "name": "Contribution - Error",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
@@ -111,6 +111,12 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",
