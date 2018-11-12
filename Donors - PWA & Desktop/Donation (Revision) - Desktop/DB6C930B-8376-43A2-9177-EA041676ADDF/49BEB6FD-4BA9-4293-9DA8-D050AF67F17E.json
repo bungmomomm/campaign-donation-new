@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "F5B298BD-247B-47ED-8F6D-E4157BF8CB76",
+  "do_objectID": "49BEB6FD-4BA9-4293-9DA8-D050AF67F17E",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "70565CF9-735A-4D72-B584-37CB8D2AB252",
+    "do_objectID": "B2DD2346-38B0-4691-98D1-3656138FD384",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "BCB945B6-136B-49C5-91BE-473922AC01AD",
+    "do_objectID": "A704B37C-5AF6-4372-ABEA-8682B994BE6A",
     "height": 50,
-    "width": 300,
-    "x": 900,
-    "y": 807
+    "width": 170,
+    "x": 720,
+    "y": 842
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,13 +30,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Button / Default / Primary / Pink",
+  "name": "Button / Default / Primary / Pink Copy",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "2DCB1BFB-1A07-478F-91DC-9BCAEE255BFA_stringValue",
-      "value": "LANJUT PEMBAYARAN"
+      "do_objectID": "A3B86EF4-79B9-4E3A-B29B-BD139431D0A7",
+      "overrideName": "CA362E95-C257-4E5F-8F1A-9BCABCA416DD_stringValue",
+      "value": "BATAL"
     }
   ],
   "resizingConstraint": 63,
@@ -46,12 +47,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "751CAD1C-E184-4C78-B861-B219A7338EDB",
+    "do_objectID": "90C674ED-C253-4690-A3E0-FA8CF7BD4630",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "D4F57B4F-1EBA-4B27-A12C-E6496458BB13",
+  "symbolID": "EA71AEF0-6066-4C29-A885-BC4A8A8CB98D",
   "verticalSpacing": 0
 }
