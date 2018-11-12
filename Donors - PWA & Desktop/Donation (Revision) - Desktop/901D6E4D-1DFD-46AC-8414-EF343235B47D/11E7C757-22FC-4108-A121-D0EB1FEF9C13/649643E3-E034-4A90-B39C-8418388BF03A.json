@@ -27,38 +27,11 @@
             "minimumLineHeight": 22
           }
         },
-        "length": 14,
+        "length": 35,
         "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2902374565601349,
-            "green": 0.2901752889156342,
-            "red": 0.290221631526947
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "OpenSans-Bold",
-              "size": 12
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 22,
-            "minimumLineHeight": 22
-          }
-        },
-        "length": 7,
-        "location": 14
       }
     ],
-    "string": "Donasi sebagai Anonim"
+    "string": "Sembunyikan identitas saya (Anonim)"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -80,11 +53,11 @@
     "constrainProportions": false,
     "do_objectID": "34D16399-9974-42F3-B34E-5E85763D446E",
     "height": 22,
-    "width": 135,
+    "width": 210,
     "x": 27,
     "y": 0
   },
-  "glyphBounds": "{{1, 6}, {133, 13}}",
+  "glyphBounds": "{{0, 6}, {210, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -93,7 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Donasi sebagai Anoni",
+  "name": "Sembunyikan identita",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
