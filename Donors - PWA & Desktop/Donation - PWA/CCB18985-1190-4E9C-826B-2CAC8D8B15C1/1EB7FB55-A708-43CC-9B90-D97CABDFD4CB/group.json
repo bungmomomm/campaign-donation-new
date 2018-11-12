@@ -1,0 +1,124 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1EB7FB55-A708-43CC-9B90-D97CABDFD4CB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E5F9AAF3-1752-40DC-A53F-3852594D3690",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FD589401-62C9-4B80-AA1C-BA79FD689984",
+    "height": 532,
+    "width": 330,
+    "x": 15,
+    "y": 88
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "1FC6AF82-DEC2-46B6-81FD-E89FCC5F3CD7"
+    },
+    {
+      "class": "rectangle",
+      "id": "6B1B0AFA-C960-4689-8C3C-253FF138AE4E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A93D7C0B-DACB-45F9-A911-72D4B6AD1CA3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4BE7AA63-0B11-4853-8284-1B8290E85836"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3FF9E5C1-70BB-44CD-BCD1-7CCDFBFFC7C6"
+    },
+    {
+      "class": "group",
+      "id": "637010EC-635A-4EB8-971F-DC3BD81CF7D6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "24FB5B39-9CFC-48DE-BA4A-32AC6846FCF9"
+    },
+    {
+      "class": "group",
+      "id": "B839344E-4E6B-4D49-8152-0225D2B1801C"
+    },
+    {
+      "class": "rectangle",
+      "id": "4129D92A-18EE-406C-9581-67A4941C2D65"
+    },
+    {
+      "class": "text",
+      "id": "87C68230-814B-4D6D-8550-8FD8E5AFD6B8"
+    },
+    {
+      "class": "text",
+      "id": "84B962E0-D899-45F6-8BFB-A50A36C2F23E"
+    },
+    {
+      "class": "text",
+      "id": "0E6C1073-65CD-41CF-AABC-935CF9DE5B86"
+    },
+    {
+      "class": "group",
+      "id": "84500459-0B2F-4703-82DB-09C4D7E5F2CC"
+    },
+    {
+      "class": "group",
+      "id": "D0174C46-893D-4D0F-B972-99B8D91D33B8"
+    },
+    {
+      "class": "text",
+      "id": "C4984776-0812-4D09-8FB2-58D6478AF79F"
+    }
+  ],
+  "name": "fastpay",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C7B382D6-F83F-4A55-B66A-DF125EB6B089",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
