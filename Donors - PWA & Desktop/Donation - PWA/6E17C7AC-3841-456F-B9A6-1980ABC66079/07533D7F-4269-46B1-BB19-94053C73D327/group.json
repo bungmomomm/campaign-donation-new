@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "07533D7F-4269-46B1-BB19-94053C73D327",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B0E8F820-00C7-40B4-9A4D-8A006F01976B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3CF1C47A-7093-4249-B327-E16376602817",
+    "height": 71,
+    "width": 360,
+    "x": 0,
+    "y": 569
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "EFA02278-63BF-424E-AAFD-575D5815B86C"
+    },
+    {
+      "class": "rectangle",
+      "id": "48FA74AB-107A-4D75-A409-62B8C5A35317"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EC9F5D20-6F40-4A22-8DE0-556C046CB89E"
+    }
+  ],
+  "name": "Donate / Sticky",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "434B0BBB-1BD1-4950-990D-9938B787FBA1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

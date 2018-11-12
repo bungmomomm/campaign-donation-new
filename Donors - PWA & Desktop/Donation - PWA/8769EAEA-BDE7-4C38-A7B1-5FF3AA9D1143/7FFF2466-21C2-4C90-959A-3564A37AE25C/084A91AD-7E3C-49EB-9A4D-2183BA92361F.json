@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Lato-Regular",
+              "name": "OpenSans-Regular",
               "size": 10
             }
           },
@@ -54,11 +54,11 @@
     "constrainProportions": false,
     "do_objectID": "86B9829D-ED96-46F9-AF4F-C40C8D307D29",
     "height": 16,
-    "width": 28,
-    "x": 277,
+    "width": 27,
+    "x": 278,
     "y": 44
   },
-  "glyphBounds": "{{0, 4}, {28, 9}}",
+  "glyphBounds": "{{0, 4}, {27, 9}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -93,7 +93,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Lato-Regular",
+            "name": "OpenSans-Regular",
             "size": 10
           }
         },
@@ -109,7 +109,7 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
+  "textBehaviour": 1,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
